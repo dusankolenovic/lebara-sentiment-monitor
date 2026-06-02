@@ -5,12 +5,5 @@
   "scripts": {
     "scrape": "node scripts/scrape.js",
     "serve": "npx serve public -p 3001"
-  },
-  "devDependencies": {
-    "playwright": "^1.49.0"
-  },
-  "dependencies": {
-    "playwright-extra": "^4.3.6",
-    "puppeteer-extra-plugin-stealth": "^2.11.2"
   }
 }
