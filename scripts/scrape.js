@@ -119,7 +119,11 @@ async function scrapeSource(page, source) {
 
     const pageReviews = pageProps.reviews ?? [];
     if (pageReviews.length === 0) {
-      console.log(`  No reviews on page ${pageNum}, stopping pagination`);
+      console.log(`  No reviews on page ${pageNum} — dumping debug snapshot`);
+      // Write full nextData so we can inspect the real structure after CI runs
+      const debugPath = path.join(outDir, `debug-${source.id}-p${pageNum}.json`);
+      fs.writeFileSync(debugPath, JSON.stringify(nextData, null, 2));
+      console.log(`  Debug snapshot written to ${debugPath}`);
       break;
     }
 
