@@ -2,9 +2,12 @@
 // Uses Playwright (Chromium) to extract __NEXT_DATA__ from Trustpilot pages.
 // Writes normalized JSON to public/data/{source}.json
 
-const { chromium } = require('playwright');
+const chromium = require('playwright-extra').chromium;
+const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 const fs = require('fs');
 const path = require('path');
+
+chromium.use(StealthPlugin());
 
 const SOURCES = [
   {
