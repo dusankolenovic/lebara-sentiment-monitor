@@ -1,4 +1,5 @@
 name: Scrape Trustpilot Reviews
+# v2
 
 on:
   schedule:
