@@ -1,0 +1,156 @@
+{
+  "source": "travel",
+  "label": "Lebara Travel eSIM",
+  "avgRating": 3.7,
+  "totalReviews": 312,
+  "sentimentBreakdown": {
+    "positive": 57,
+    "neutral": 14,
+    "negative": 29
+  },
+  "ratingBreakdown": {
+    "5": 42,
+    "4": 15,
+    "3": 14,
+    "2": 11,
+    "1": 18
+  },
+  "reviews": [
+    {
+      "id": "tr-001",
+      "title": "Activation took 45 minutes and no support",
+      "body": "Bought the eSIM for my trip to Spain. The QR code scan worked but the profile never activated. Spent 45 minutes in a chat loop with no resolution. Had to borrow a friend's data for the first day. Eventually it worked on its own. No explanation given.",
+      "rating": 2,
+      "author": "Rachel M.",
+      "date": "2026-05-29T08:14:00Z",
+      "url": "https://www.trustpilot.com/reviews/tr-001"
+    },
+    {
+      "id": "tr-002",
+      "title": "Perfect for EU travel — just worked",
+      "body": "Landed in Amsterdam, scanned the QR, was online in 2 minutes. Coverage across Netherlands, Belgium, and Germany was excellent. Speeds were fast enough for maps and streaming. Would buy again for every trip.",
+      "rating": 5,
+      "author": "Tom H.",
+      "date": "2026-05-28T14:30:00Z",
+      "url": "https://www.trustpilot.com/reviews/tr-002"
+    },
+    {
+      "id": "tr-003",
+      "title": "Data ran out without warning — charged extra",
+      "body": "I purchased a 5GB Europe plan. When I hit the cap, instead of cutting off data, it started charging roaming rates without any notification. Found out when I got my bill. Customer service said it was in the T&Cs. That's not good enough.",
+      "rating": 1,
+      "author": "Sarah K.",
+      "date": "2026-05-27T19:45:00Z",
+      "url": "https://www.trustpilot.com/reviews/tr-003"
+    },
+    {
+      "id": "tr-004",
+      "title": "Good value, average speeds in Turkey",
+      "body": "Price was competitive compared to Airalo and Holafly. Worked fine in Istanbul and Cappadocia. Speeds were around 15 Mbps which is enough for basic use. Not the fastest but the price justified it.",
+      "rating": 4,
+      "author": "David P.",
+      "date": "2026-05-26T11:00:00Z",
+      "url": "https://www.trustpilot.com/reviews/tr-004"
+    },
+    {
+      "id": "tr-005",
+      "title": "Didn't work in Morocco at all",
+      "body": "Bought the North Africa plan. Never connected despite following all setup instructions. Support chat was responsive but couldn't fix it remotely. Had to buy a local SIM. Got a partial refund but the hassle wasn't worth it.",
+      "rating": 2,
+      "author": "James F.",
+      "date": "2026-05-25T09:22:00Z",
+      "url": "https://www.trustpilot.com/reviews/tr-005"
+    },
+    {
+      "id": "tr-006",
+      "title": "Brilliant for backpacking across Southeast Asia",
+      "body": "Used across Thailand, Vietnam, and Cambodia for 3 weeks. The multi-country plan was a lifesaver — no swapping SIMs at each border. Coverage was solid everywhere except in some rural areas of Cambodia which is expected.",
+      "rating": 5,
+      "author": "Emma L.",
+      "date": "2026-05-24T16:10:00Z",
+      "url": "https://www.trustpilot.com/reviews/tr-006"
+    },
+    {
+      "id": "tr-007",
+      "title": "App UI is confusing but the eSIM itself works",
+      "body": "Setting up the eSIM through the app was unnecessarily complicated. Took me 20 minutes to find where to install the profile. Once it was on the phone, it worked without issues in France and Portugal. The app needs a serious UX review.",
+      "rating": 3,
+      "author": "Nicole B.",
+      "date": "2026-05-23T12:40:00Z",
+      "url": "https://www.trustpilot.com/reviews/tr-007"
+    },
+    {
+      "id": "tr-008",
+      "title": "Slow data speeds in Japan",
+      "body": "Coverage in Tokyo was fine but speeds were noticeably slower than competitors. Google Maps was lagging and video calls were impossible. For a premium-priced Japan plan, I expected better. Airalo is faster for the same price.",
+      "rating": 2,
+      "author": "Chris W.",
+      "date": "2026-05-22T07:55:00Z",
+      "url": "https://www.trustpilot.com/reviews/tr-008"
+    },
+    {
+      "id": "tr-009",
+      "title": "Excellent coverage across the Balkans",
+      "body": "Travelled through Serbia, North Macedonia, and Albania — not typical eSIM coverage. Lebara Travel had solid 4G across all three. Pleasantly surprised. Setup was quick and the plan lasted the full 14 days without issues.",
+      "rating": 5,
+      "author": "Maria G.",
+      "date": "2026-05-21T15:20:00Z",
+      "url": "https://www.trustpilot.com/reviews/tr-009"
+    },
+    {
+      "id": "tr-010",
+      "title": "Decent option but expensive vs competitors",
+      "body": "Works as advertised. The EU plan gave me good coverage in Italy and Greece. My only gripe is the price — Saily offers similar coverage for about 20% less. Unless you have a specific deal, shop around first.",
+      "rating": 3,
+      "author": "Alex T.",
+      "date": "2026-05-20T10:05:00Z",
+      "url": "https://www.trustpilot.com/reviews/tr-010"
+    },
+    {
+      "id": "tr-011",
+      "title": "Renewal failed mid-trip, left without data",
+      "body": "My 7-day plan expired while in Barcelona. Tried to renew through the app — payment went through but the new plan never activated. Was offline for 6 hours. Support eventually fixed it but the timing was terrible.",
+      "rating": 1,
+      "author": "Paul J.",
+      "date": "2026-05-19T18:30:00Z",
+      "url": "https://www.trustpilot.com/reviews/tr-011"
+    },
+    {
+      "id": "tr-012",
+      "title": "Worked across 8 countries without a single issue",
+      "body": "3-week Europe trip. Activated in London, used it across France, Spain, Italy, Czech Republic, Austria, Hungary, and Croatia. Not one connectivity issue. The 15GB lasted the whole trip with careful use. Really impressed.",
+      "rating": 5,
+      "author": "Sophie R.",
+      "date": "2026-05-18T13:45:00Z",
+      "url": "https://www.trustpilot.com/reviews/tr-012"
+    },
+    {
+      "id": "tr-013",
+      "title": "Good for EU, disappointing for US",
+      "body": "The EU plan is solid. But when I tried the North America plan for a New York trip, coverage in upstate New York was terrible. Ended up relying on hotel WiFi most of the time. Depends heavily on which region you're buying for.",
+      "rating": 3,
+      "author": "Hannah V.",
+      "date": "2026-05-17T09:15:00Z",
+      "url": "https://www.trustpilot.com/reviews/tr-013"
+    },
+    {
+      "id": "tr-014",
+      "title": "Simple, cheap, and it just works",
+      "body": "Bought 3GB for a weekend in Amsterdam. Scanned QR at Schiphol airport and was online before I reached the taxi. Used for maps, WhatsApp, and a bit of browsing. Exactly what I needed. No complaints.",
+      "rating": 5,
+      "author": "Ben O.",
+      "date": "2026-05-16T17:00:00Z",
+      "url": "https://www.trustpilot.com/reviews/tr-014"
+    },
+    {
+      "id": "tr-015",
+      "title": "QR code in email didn't scan",
+      "body": "Purchased the eSIM and received a QR code via email. Tried to scan it from my screen — wouldn't work. Support eventually sent me a link to install it manually. That took another 30 minutes. Not user-friendly for a tech product.",
+      "rating": 2,
+      "author": "Linda C.",
+      "date": "2026-05-15T08:20:00Z",
+      "url": "https://www.trustpilot.com/reviews/tr-015"
+    }
+  ],
+  "fetchedAt": "2026-06-02T10:00:00Z"
+}

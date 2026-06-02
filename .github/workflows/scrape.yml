@@ -1,0 +1,37 @@
+name: Scrape Trustpilot Reviews
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Playwright browser
+        run: npx playwright install chromium --with-deps
+
+      - name: Scrape Trustpilot
+        run: node scripts/scrape.js
+
+      - name: Commit updated data
+        run: |
+          git config user.email "scraper-bot@lebara-monitor"
+          git config user.name "Lebara Monitor Bot"
+          git add public/data/
+          git diff --cached --quiet || git commit -m "chore: refresh review data [skip ci]"
+          git push

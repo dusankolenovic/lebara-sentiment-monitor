@@ -1,0 +1,12 @@
+{
+  "name": "lebara-sentiment-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "scrape": "node scripts/scrape.js",
+    "serve": "npx serve public -p 3001"
+  },
+  "devDependencies": {
+    "playwright": "^1.49.0"
+  }
+}
