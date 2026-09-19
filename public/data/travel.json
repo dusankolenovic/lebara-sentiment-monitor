@@ -1,8 +1,8 @@
 {
   "source": "travel",
   "label": "Lebara Travel eSIM",
-  "avgRating": 0,
-  "totalReviews": 0,
+  "avgRating": 4.7,
+  "totalReviews": 60,
   "sentimentBreakdown": {
     "positive": 0,
     "neutral": 0,
@@ -15,6 +15,547 @@
     "4": 0,
     "5": 0
   },
-  "reviews": [],
-  "fetchedAt": "2026-09-19T03:43:38.254Z"
+  "reviews": [
+    {
+      "id": "6aae4434a51de3768fbe487a",
+      "title": "I made a mistake in ordering the wrong…",
+      "body": "I made a mistake in ordering the wrong type of eSIM, after speaking with Shivam in customer support, this was quickly resolved and a refund issued - thank you.",
+      "rating": 5,
+      "author": "tim wayne",
+      "date": "2026-09-19T10:13:40.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aae4434a51de3768fbe487a"
+    },
+    {
+      "id": "6aae3ac7d4fec8b748f5bb35",
+      "title": "Connection issues resolved ",
+      "body": "Shubham Suryawanshi sorted out my connection issue immediately. Great customer service. Thanks Shubham!!",
+      "rating": 5,
+      "author": "Christopher Robinson",
+      "date": "2026-09-19T09:33:27.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aae3ac7d4fec8b748f5bb35"
+    },
+    {
+      "id": "6aadc876285240a06a2a160b",
+      "title": "The only positive thing I can say it’s…",
+      "body": "The only positive thing I can say it’s that installation was easy. The rest? It says you are on 5G and literally no connectivity at all. It happens in a big city.  If you depend on it for anything… bad bad. Don’t bother with it. I had to buy a different eSIM ",
+      "rating": 1,
+      "author": "Jorge",
+      "date": "2026-09-19T01:25:42.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aadc876285240a06a2a160b"
+    },
+    {
+      "id": "6aad6dfc1ee384bf62f0a38b",
+      "title": "Thankyou Adarsh",
+      "body": "Adarsh helped me sort out my roaming issue. ",
+      "rating": 5,
+      "author": "Kerry Greaves",
+      "date": "2026-09-18T18:59:40.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aad6dfc1ee384bf62f0a38b"
+    },
+    {
+      "id": "6aad5b8910cd74b1a8361f29",
+      "title": "Shivam sorted out my issues quickly and…",
+      "body": "Shivam sorted out my issues quickly and calmly. Helped me with going through a process one step at a time ",
+      "rating": 5,
+      "author": "Michael Elliott",
+      "date": "2026-09-18T17:40:57.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aad5b8910cd74b1a8361f29"
+    },
+    {
+      "id": "6aad5840e17a30413ff2a04a",
+      "title": "It took a while to get my e-SIM to…",
+      "body": "It took a while to get my e-SIM to work. Ali was the third person at Lebara trying to help and he was brilliant and my e-SIM is now working! ",
+      "rating": 4,
+      "author": "U W",
+      "date": "2026-09-18T17:26:56.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aad5840e17a30413ff2a04a"
+    },
+    {
+      "id": "6aad4d76b3bd9cbfb2ff90fe",
+      "title": " great service.",
+      "body": "Pooja was of great service. ",
+      "rating": 5,
+      "author": "MS",
+      "date": "2026-09-18T16:40:54.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aad4d76b3bd9cbfb2ff90fe"
+    },
+    {
+      "id": "6aad4aed05d2d5be768ee4ca",
+      "title": "First rate help",
+      "body": "Shivam was very helpful and gave me clear advice that was easy to understand.\n\nAs a result I will be going ahead with my travel esim purchase\n\nIf only all advice over the net was a clear.\n\nMany thanks 😁",
+      "rating": 5,
+      "author": "Nick",
+      "date": "2026-09-18T16:30:05.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aad4aed05d2d5be768ee4ca"
+    },
+    {
+      "id": "6aad3d7c45f436561a079db2",
+      "title": "I was totally bamboozled by the eSIM…",
+      "body": "I was totally bamboozled by the eSIM but Ali was so patient and helpful. Nothing was too much trouble and it all got sorted out in the end! Thank you Ali 😊",
+      "rating": 5,
+      "author": "Cate",
+      "date": "2026-09-18T15:32:44.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aad3d7c45f436561a079db2"
+    },
+    {
+      "id": "6aad2e18277eca20c8ad1995",
+      "title": "The agent had excellent knowledge and…",
+      "body": "The agent had excellent knowledge and very  helpful in resolving my esim issues.",
+      "rating": 5,
+      "author": "Hitesh Mistry",
+      "date": "2026-09-18T14:27:04.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aad2e18277eca20c8ad1995"
+    },
+    {
+      "id": "6aad288046945b8ecfb0a80d",
+      "title": "Didn't connect when we arrived in USA",
+      "body": "Didn't connect when we arrived in USA. And we were stick not being able to call an uber or our hotel. Ended up having  to.use the chat hours later. Adarsh was very helpful. ",
+      "rating": 4,
+      "author": "carol gibb",
+      "date": "2026-09-18T14:03:12.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aad288046945b8ecfb0a80d"
+    },
+    {
+      "id": "6aad2331f70e11f7f905cc43",
+      "title": "Shivam helped me patiently to get…",
+      "body": "Shivam helped me patiently to get connected \nCouldn’t have done it on my own \nThanks, Shivam 🙏",
+      "rating": 5,
+      "author": "Sue Cory wright",
+      "date": "2026-09-18T13:40:33.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aad2331f70e11f7f905cc43"
+    },
+    {
+      "id": "6aad20ace923951d00a56598",
+      "title": "Newbie to eSIM",
+      "body": "I was unsure of process for activating my esim once landing. I called Lebara, the call was answered straight away by a very pleasant and helpful young lady who took me through the process repeating until\nshe was  sure that  i understood. She also emailed the instructions and advised that i could contact again if stuck. Excellent service",
+      "rating": 5,
+      "author": "Dee",
+      "date": "2026-09-18T13:29:48.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aad20ace923951d00a56598"
+    },
+    {
+      "id": "6aad09f2394857ad5263f37d",
+      "title": "Adarsh helped me with installation of…",
+      "body": "Adarsh helped me with installation of e-sim. He was very patient and took time to help me.",
+      "rating": 5,
+      "author": "Madhurima Chatterjee",
+      "date": "2026-09-18T11:52:50.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aad09f2394857ad5263f37d"
+    },
+    {
+      "id": "6aacfd278ad25c09c6da3793",
+      "title": "Shivam was very helpful as I bought a…",
+      "body": "Shivam was very helpful as I bought a esim without checking compatibility with my phone before hand. But Shivam asked for some information and in the end I was confirmed I would be refunded. ",
+      "rating": 5,
+      "author": "Laetitia",
+      "date": "2026-09-18T10:58:15.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aacfd278ad25c09c6da3793"
+    },
+    {
+      "id": "6aacfc8e98dc038d2ae411ed",
+      "title": "very helpful and quick to respond to my…",
+      "body": "very helpful and quick to respond to my issue",
+      "rating": 5,
+      "author": "Colin Hart",
+      "date": "2026-09-18T10:55:42.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aacfc8e98dc038d2ae411ed"
+    },
+    {
+      "id": "6aacf6aeb3139234ce79685b",
+      "title": "Problem with  my eSIM resolved",
+      "body": "When I got to Spain I thought my eSIM was set up ready to go.But realised data was being taken from my physical sim.\nOn contacting you on chat the very pleasant /person / bot helped me change my iPhone settings to allow the eSIM to take over . ",
+      "rating": 5,
+      "author": "Laura",
+      "date": "2026-09-18T10:30:38.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aacf6aeb3139234ce79685b"
+    },
+    {
+      "id": "6aace5b743826d51bd447f8d",
+      "title": "Hrudaya was very helpful and sorted out…",
+      "body": "Hrudaya was very helpful and sorted out my travel eSIM issue. They talked me through it step by step making sure I had done it correctly before moving onto the next step. Excellent member of staff. Lebara should be proud",
+      "rating": 5,
+      "author": "Laura",
+      "date": "2026-09-18T09:18:15.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aace5b743826d51bd447f8d"
+    },
+    {
+      "id": "6aac4b6c974e869e80bb364c",
+      "title": "I had problem initially w data…",
+      "body": "I had problem initially w data connection on arrival to Italy. Contacted Lebara by chat and Pooja was very patient in addressing my issue. Definitely an excellent costumer care.",
+      "rating": 5,
+      "author": "Arlene",
+      "date": "2026-09-17T22:19:56.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aac4b6c974e869e80bb364c"
+    },
+    {
+      "id": "6aac487aefd0d63d14c21a58",
+      "title": "It didn’t work!.",
+      "body": "It didn’t work!.\nPurchased 2 E sims one for my wife and one for me. 4 days away no data used other then 3 calls to the chat line for well over an hour.£20 for no results whatsoever\nDefinitely not straight forward to install and other than everyone saying how sorry they were and how they would fix it - that just didn’t happen. Absolute waste of time and money. I won’t buy again",
+      "rating": 1,
+      "author": "Paul",
+      "date": "2026-09-17T22:07:22.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aac487aefd0d63d14c21a58"
+    },
+    {
+      "id": "6aac184c0f7c41e9c4ed3fa5",
+      "title": "⭐⭐⭐⭐⭐ Chandrakant the amazing ",
+      "body": "⭐⭐⭐⭐⭐ Chandrakant – genuinely exceptional customer service\n\nI very rarely feel compelled to write a glowing review immediately after dealing with customer service, but Chandrakant absolutely deserves one.\n\nI was travelling in Morocco and had been having an incredibly frustrating problem with a Lebara Travel eSIM. A purchase had become associated with an incorrect email address, I couldn’t access the eSIM, and the system then appeared to prevent me from simply buying another one. After several attempts to sort it myself, I was thoroughly fed up.\n\nThen I got through to Chandrakant.\n\nWhat a difference one excellent member of staff can make.\n\nHe listened, actually understood what had gone wrong, checked the system rather than simply sending me around in circles, and stayed with me while we worked through it. He identified the Travel eSIM on my phone, guided me through the correct settings and waited while I switched off Wi-Fi to make absolutely certain the mobile data was genuinely working.\n\nIt worked.\n\nBetter still, he then dealt with the refund for the unusable purchase and explained clearly when I should receive confirmation and when the money should be returned.\n\nThroughout the conversation he was patient, polite, reassuring and — most importantly — effective. I started the chat extremely frustrated and finished it genuinely delighted. That is quite an achievement!\n\nCustomer service is easy when nothing has gone wrong. The real test is what happens when a customer has a complicated problem and needs someone to take ownership of it. Chandrakant did exactly that.\n\nLebara, please make sure this feedback reaches him and his manager. People who provide customer service at this level deserve to be recognised.\n\nThank you, Chandrakant. You rescued my afternoon — and my internet connection in Morocco! ❤️\n\nAn absolutely deserved five stars",
+      "rating": 5,
+      "author": "GARETH SCRATCHERD",
+      "date": "2026-09-17T18:41:48.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aac184c0f7c41e9c4ed3fa5"
+    },
+    {
+      "id": "6aabf6f9f194542dba8a8fbd",
+      "title": "Helpful staff member ",
+      "body": "Samiksha was extremely helpful earlier trying to sort out the roaming issue we are having at the moment. ",
+      "rating": 5,
+      "author": "Corene van den Elshout",
+      "date": "2026-09-17T16:19:37.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aabf6f9f194542dba8a8fbd"
+    },
+    {
+      "id": "6aabb03df89ac089a51d22cd",
+      "title": "Great customer support ",
+      "body": "Great customer service. Give 5 stars for Ali who was helping me. ",
+      "rating": 5,
+      "author": "Pradip Neupane",
+      "date": "2026-09-17T11:17:49.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aabb03df89ac089a51d22cd"
+    },
+    {
+      "id": "6aab79acb48a0a7f271b285d",
+      "title": "Chandrakant is very helpful",
+      "body": "Chandrakant is very helpful. He understands my question very quickly and solved it immediately. I am very happy!",
+      "rating": 5,
+      "author": "Pei Su",
+      "date": "2026-09-17T07:25:00.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aab79acb48a0a7f271b285d"
+    },
+    {
+      "id": "6aab693c2c85cf1213d3c649",
+      "title": "Very good back up service with esim…",
+      "body": "Very good back up service with esim issue  ",
+      "rating": 5,
+      "author": "Brian Jackson",
+      "date": "2026-09-17T06:14:52.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aab693c2c85cf1213d3c649"
+    },
+    {
+      "id": "6aaafb2b5e04c11439705d68",
+      "title": "Pooja was really helpful and went the…",
+      "body": "Pooja was really helpful and went the extra mile, I purchased the wrong plan he changed it after my mix up, an asset to this company ",
+      "rating": 5,
+      "author": "Jay",
+      "date": "2026-09-16T22:25:15.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aaafb2b5e04c11439705d68"
+    },
+    {
+      "id": "6aaae579b096bc36e827d9a9",
+      "title": "I were struggling with esims ,,not now thanks Labara",
+      "body": "I were struggling with esims ,,, downloaded the Labara app and opened the live chat ,, my advisor was a person called Chandrakant , they were brilliant,  answered all my questions and queries 100% spot on. Well reccomended. ",
+      "rating": 5,
+      "author": "Andy Campbell",
+      "date": "2026-09-16T20:52:41.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aaae579b096bc36e827d9a9"
+    },
+    {
+      "id": "6aaac7cc931d8821e79b879c",
+      "title": "Had a difficult issue and Siddh was…",
+      "body": "Had a difficult issue and Siddh was patient and clear with his expert help finding my way through the maze. Top marks. ",
+      "rating": 5,
+      "author": "JD",
+      "date": "2026-09-16T18:46:05.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aaac7cc931d8821e79b879c"
+    },
+    {
+      "id": "6aaaa140ef0dbdccfbcb68c6",
+      "title": "Chatted with Ali today re travel to…",
+      "body": "Chatted with Ali today re travel to South Africa for an extended period of time. He assessed my needs and direct me to my best options. Many thanks Ali, ",
+      "rating": 5,
+      "author": "Chris Place",
+      "date": "2026-09-16T16:01:36.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aaaa140ef0dbdccfbcb68c6"
+    },
+    {
+      "id": "6aaa6f527c6ba32a8f573363",
+      "title": "I purchased a esim for thailand and to…",
+      "body": "I purchased a esim for thailand and to start I encountered afew problems \nI contacted thier webchat and to be honest it didn't help me to rectify my concern.\nI thought that was the end of it and thought oh well I've lost my £20.\nLast night I received a phone call from lebara and I can honestly say in all the years I have had to deal with various problems on the phone the lady on the call was truly sympathetic and very understanding. \nShe said she would refund me my £20 and throughly apologized for the problems that I had encountered. She must be a credit to the company\nIt's not just the refund of the £20 its the way I was reassured. To me this very rare especially in England nowadays. ",
+      "rating": 5,
+      "author": "Shaun",
+      "date": "2026-09-16T12:28:34.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aaa6f527c6ba32a8f573363"
+    },
+    {
+      "id": "6aaa69ede465c2295d266f5b",
+      "title": "Ali was very helpful and patient",
+      "body": "Ali was very helpful and patient. He advised me to get my eSIM working.",
+      "rating": 5,
+      "author": "Sus",
+      "date": "2026-09-16T12:05:33.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aaa69ede465c2295d266f5b"
+    },
+    {
+      "id": "6aaa68492a2b5aab706c58e3",
+      "title": "Delivered wrong product",
+      "body": "Delivered wrong product, confirmation email didn’t indicate the product or order value, initially refused refund, claimed it was “known issue”, insisted I activate the wrong product,  eventually agreed to refund if said I wasn’t travelling any more but evaded confirming the refund amount. ",
+      "rating": 1,
+      "author": "Oscar",
+      "date": "2026-09-16T11:58:33.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aaa68492a2b5aab706c58e3"
+    },
+    {
+      "id": "6aaa60f1dc77a1253a834d5b",
+      "title": "The eSIM didn’t work for me",
+      "body": "The eSIM didn’t work for me, but Ali from Lebara was excellent. He was professional, reassuring, and quickly arranged a full refund. He put me at ease straight away and made the whole experience hassle-free. Exceptional customer service from Ali",
+      "rating": 5,
+      "author": "Abu Tarab Raja",
+      "date": "2026-09-16T11:27:13.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aaa60f1dc77a1253a834d5b"
+    },
+    {
+      "id": "6aa96c1450342e3e6f3424a3",
+      "title": "Sanika  sorted out my problem…",
+      "body": "Sanika  sorted out my problem connecting he was so helpful kind and patient I am not technically minded so definitely fantastic customer services 5* service from Sanika.",
+      "rating": 5,
+      "author": "Dawn Ablett",
+      "date": "2026-09-15T18:02:28.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aa96c1450342e3e6f3424a3"
+    },
+    {
+      "id": "6aa8d4757b41a73b5462ab59",
+      "title": "Helpful on line chat with SMITA got me…",
+      "body": "Helpful on line chat with SMITA got me up & running quickly",
+      "rating": 5,
+      "author": "IAIN WHITE",
+      "date": "2026-09-15T07:15:33.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aa8d4757b41a73b5462ab59"
+    },
+    {
+      "id": "6aa8530177e902edb8b9632c",
+      "title": "Arjun was very clear in assisting me…",
+      "body": "Arjun was very clear in assisting me with everything I had to do to complete my installation and activation.",
+      "rating": 5,
+      "author": "Mukulu Kabelu",
+      "date": "2026-09-14T22:03:13.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aa8530177e902edb8b9632c"
+    },
+    {
+      "id": "6aa80956e8387064dd405c3e",
+      "title": "Travel eSIM problem ",
+      "body": "I had a problem with setting up the correct travel eSIM, Talha Baig helped me sort things out. Many thanks Talha!",
+      "rating": 4,
+      "author": "Julian Simpson",
+      "date": "2026-09-14T16:48:55.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aa80956e8387064dd405c3e"
+    },
+    {
+      "id": "6aa78e9dab65b4a583d971e7",
+      "title": "Hrudya was so helpful in solving my…",
+      "body": "Hrudya was so helpful in solving my issue with my eSIM not working. A great help. Thank you ",
+      "rating": 5,
+      "author": "David",
+      "date": "2026-09-14T08:05:17.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aa78e9dab65b4a583d971e7"
+    },
+    {
+      "id": "6aa71c30085a2d77aebcb098",
+      "title": "Good service",
+      "body": "Ali was quick, efficience and very helpful",
+      "rating": 5,
+      "author": "Sarah  Kurlander",
+      "date": "2026-09-13T23:57:04.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aa71c30085a2d77aebcb098"
+    },
+    {
+      "id": "6aa71aa41c907f00388f326b",
+      "title": "Trouble with esim working",
+      "body": "Ali was very helpful today and got me up and running on my esim.  Ali gave clear and concise instruction which I was able to follow.  Absolute star.  Thank you Ali\n",
+      "rating": 5,
+      "author": "Wendy Scott",
+      "date": "2026-09-13T23:50:28.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aa71aa41c907f00388f326b"
+    },
+    {
+      "id": "6aa7180dfa9f318f6ad51bac",
+      "title": "Anurag helped me with my query- he was great",
+      "body": "Anurag helped me with my query. He sorted out my problem and was very efficient. ",
+      "rating": 5,
+      "author": "Helena Owen",
+      "date": "2026-09-13T23:39:25.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aa7180dfa9f318f6ad51bac"
+    },
+    {
+      "id": "6aa712837c791b8e82545428",
+      "title": "Ali was very helpful excellent 👏",
+      "body": "Ali was very helpful excellent 👏 ",
+      "rating": 5,
+      "author": "Beverley",
+      "date": "2026-09-13T23:15:47.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aa712837c791b8e82545428"
+    },
+    {
+      "id": "6aa5e7c12e05036c32c1eaee",
+      "title": "Great customer service",
+      "body": "Great customer service, available 24/7. The guy named Ali fix the problem in a sec. Thanks.",
+      "rating": 5,
+      "author": "suna",
+      "date": "2026-09-13T02:01:05.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aa5e7c12e05036c32c1eaee"
+    },
+    {
+      "id": "6aa4f0355dbfcfba640c83a5",
+      "title": "Chetan was great",
+      "body": "Chetan was great, provided quick and prompt service.",
+      "rating": 5,
+      "author": "Salman Sindhwani",
+      "date": "2026-09-12T08:24:53.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aa4f0355dbfcfba640c83a5"
+    },
+    {
+      "id": "6aa4e702168c0e2daee66473",
+      "title": "Fantastic experience ",
+      "body": "I was absolutely clueless in how to get my eSIM working.   I was connected within seconds which was an incredible quick response.  I spoke with Chetan.  He was so patient and helpful.   A credit to your company.  I can’t thank him enough ☺️",
+      "rating": 5,
+      "author": "Maria T",
+      "date": "2026-09-12T07:45:38.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aa4e702168c0e2daee66473"
+    },
+    {
+      "id": "6aa4df5b139ecd6eeb765ee0",
+      "title": "Very responsive chat",
+      "body": "Very responsive chat which resolved the issue",
+      "rating": 4,
+      "author": "Cathy G",
+      "date": "2026-09-12T07:12:59.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aa4df5b139ecd6eeb765ee0"
+    },
+    {
+      "id": "6aa47d51ab3bcf307a3c4819",
+      "title": "I spoke with Ali very helpful and…",
+      "body": "I spoke with Ali very helpful and reassuring. ",
+      "rating": 5,
+      "author": "Marvin G",
+      "date": "2026-09-12T00:14:41.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aa47d51ab3bcf307a3c4819"
+    },
+    {
+      "id": "6aa46419363b75e152ecaa51",
+      "title": "Quick response",
+      "body": "Quick response ",
+      "rating": 5,
+      "author": "Aled",
+      "date": "2026-09-11T22:27:05.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aa46419363b75e152ecaa51"
+    },
+    {
+      "id": "6aa4626c1268a2cde842f37d",
+      "title": "Shivam was fast and responsive when I…",
+      "body": "Shivam was fast and responsive when I was trying to figure out how to install my esim! Thank you",
+      "rating": 5,
+      "author": "Neenu Santhosh",
+      "date": "2026-09-11T22:19:56.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aa4626c1268a2cde842f37d"
+    },
+    {
+      "id": "6aa45428b1ea222c58b5fef3",
+      "title": "Rijo! Rijo!",
+      "body": "Rijo Roymon must be one of THE most patient persons in Lebara! When calling me to explain the solution to my problem [payment stalling at the final moment], he guided me through the steps I needed to take to complete the sale. He patiently repeated/guided me through the process; he has my gratitude because there were moments when that repetition was essential to my successs! Thank you Rijo!!",
+      "rating": 5,
+      "author": "MICHAEL",
+      "date": "2026-09-11T21:19:04.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aa45428b1ea222c58b5fef3"
+    },
+    {
+      "id": "6aa43e870a94a963558ff540",
+      "title": "Shivam was excellent and replied so…",
+      "body": "Shivam was excellent and replied so quickly",
+      "rating": 5,
+      "author": "Alexis Everall",
+      "date": "2026-09-11T19:46:47.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aa43e870a94a963558ff540"
+    },
+    {
+      "id": "6aa3eaa862b0624ff73f84ec",
+      "title": "Great value for money",
+      "body": "Great value for money! yes I had a problem getting the eSIM to connect to the internet when I arrived at my destination (i’d followed the instructions) BUT the in app chat talked me through it patiently and in detail and even called me to make sure everything was working ok - great customer support from Ali!",
+      "rating": 5,
+      "author": "Linda Evans",
+      "date": "2026-09-11T13:48:56.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aa3eaa862b0624ff73f84ec"
+    },
+    {
+      "id": "6aa3bb44d901fcc91c604043",
+      "title": "Very helpful Shruyi thanks",
+      "body": "Very helpful Shruyi thanks",
+      "rating": 5,
+      "author": "Mr        Glover",
+      "date": "2026-09-11T10:26:44.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aa3bb44d901fcc91c604043"
+    },
+    {
+      "id": "6aa316aba1a5b9ad03392e70",
+      "title": "Ali helped me instal my esim",
+      "body": "Ali helped me instal my esim. I have never done this before and he made it easy. Fingers crossed it works when I arrive in my destination.",
+      "rating": 5,
+      "author": "Lee Mitchell",
+      "date": "2026-09-10T22:44:27.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aa316aba1a5b9ad03392e70"
+    },
+    {
+      "id": "6aa315bf0c57165d867921f9",
+      "title": "Great customer service thank you so…",
+      "body": "Great customer service thank you so much Pranav for your help!",
+      "rating": 5,
+      "author": "Louise Smith",
+      "date": "2026-09-10T22:40:31.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aa315bf0c57165d867921f9"
+    },
+    {
+      "id": "6aa3063e234b6d48f6712a02",
+      "title": "Easily dealt with my issue",
+      "body": "Easily dealt with my issue",
+      "rating": 5,
+      "author": "Mr Gates",
+      "date": "2026-09-10T21:34:22.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aa3063e234b6d48f6712a02"
+    },
+    {
+      "id": "6aa304be3f46f3e505df8b2f",
+      "title": "Helpful and patient ",
+      "body": "Sitma was very helpful and patient when I  was having problems activating my travel eSIM, she has also offered to follow up in a few days when we are on holiday, thank you ",
+      "rating": 5,
+      "author": "Sally Richley",
+      "date": "2026-09-10T21:27:58.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aa304be3f46f3e505df8b2f"
+    },
+    {
+      "id": "6aa2f0a11dd1de28843ad14b",
+      "title": "Great service efficient immediate and…",
+      "body": "Great service efficient immediate and knowledgeable. ",
+      "rating": 5,
+      "author": "Julie Pearson",
+      "date": "2026-09-10T20:02:09.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aa2f0a11dd1de28843ad14b"
+    },
+    {
+      "id": "6aa2e9f6887eec4b8016a2d9",
+      "title": "Great customer service and support ",
+      "body": "Great customer service and support \nVery professional and helpful ",
+      "rating": 5,
+      "author": "Francis Wellard",
+      "date": "2026-09-10T19:33:42.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aa2e9f6887eec4b8016a2d9"
+    },
+    {
+      "id": "6aa2c96417af3fa4284fbac4",
+      "title": "I was helped by Rijo Roymon ",
+      "body": "I was helped by Rijo Roymon regarding esim.very patient and answered my enquiry in a very professional manner .",
+      "rating": 5,
+      "author": "helen michael",
+      "date": "2026-09-10T17:14:44.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aa2c96417af3fa4284fbac4"
+    }
+  ],
+  "fetchedAt": "2026-09-19T10:30:19.133Z"
 }
