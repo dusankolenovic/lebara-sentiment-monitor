@@ -1,7 +1,7 @@
 {
   "source": "travel",
   "label": "Lebara Travel eSIM",
-  "avgRating": 4.7,
+  "avgRating": 4.8,
   "totalReviews": 60,
   "sentimentBreakdown": {
     "positive": 0,
@@ -16,6 +16,51 @@
     "5": 0
   },
   "reviews": [
+    {
+      "id": "6ab53ad57b41cfafc625e2f6",
+      "title": "Pranav was able to help and reassure me…",
+      "body": "Pranav was able to help amd reassure me very promptly regarding e sim.settings..all good!!!!",
+      "rating": 5,
+      "author": "Andy Field",
+      "date": "2026-09-24T16:59:33.000Z",
+      "url": "https://www.trustpilot.com/reviews/6ab53ad57b41cfafc625e2f6"
+    },
+    {
+      "id": "6ab4f609b496f20b77c052ae",
+      "title": "Great response just what I needed and…",
+      "body": "Great response just what I needed and quick ",
+      "rating": 5,
+      "author": "Tammy Flavell",
+      "date": "2026-09-24T12:06:01.000Z",
+      "url": "https://www.trustpilot.com/reviews/6ab4f609b496f20b77c052ae"
+    },
+    {
+      "id": "6ab4c580992b0c44a0f3581c",
+      "title": "Chetan was incredibly helpful",
+      "body": "Chetan was incredibly helpful, the best there’s ever been ",
+      "rating": 5,
+      "author": "Danny",
+      "date": "2026-09-24T08:38:56.000Z",
+      "url": "https://www.trustpilot.com/reviews/6ab4c580992b0c44a0f3581c"
+    },
+    {
+      "id": "6ab488cb144d6d88c7802ab7",
+      "title": "Quick and easy help",
+      "body": "Quick and easy help, manage to resolve the issue whilst travelling in a cab! Great customer service!",
+      "rating": 5,
+      "author": "Alex Gannon",
+      "date": "2026-09-24T04:19:55.000Z",
+      "url": "https://www.trustpilot.com/reviews/6ab488cb144d6d88c7802ab7"
+    },
+    {
+      "id": "6ab45964e8a803f4e95b4e19",
+      "title": "Arjun was patient and friendly…",
+      "body": "Arjun was patient and friendly throughout. He is a credit to the company ",
+      "rating": 5,
+      "author": "ALISTER DAVID KAY",
+      "date": "2026-09-24T00:57:40.000Z",
+      "url": "https://www.trustpilot.com/reviews/6ab45964e8a803f4e95b4e19"
+    },
     {
       "id": "6ab4041917b92e057e9a467d",
       "title": "Quick and easy to deal with",
@@ -510,52 +555,7 @@
       "author": "Chris Place",
       "date": "2026-09-16T16:01:36.000Z",
       "url": "https://www.trustpilot.com/reviews/6aaaa140ef0dbdccfbcb68c6"
-    },
-    {
-      "id": "6aaa6f527c6ba32a8f573363",
-      "title": "I purchased a esim for thailand and to…",
-      "body": "I purchased a esim for thailand and to start I encountered afew problems \nI contacted thier webchat and to be honest it didn't help me to rectify my concern.\nI thought that was the end of it and thought oh well I've lost my £20.\nLast night I received a phone call from lebara and I can honestly say in all the years I have had to deal with various problems on the phone the lady on the call was truly sympathetic and very understanding. \nShe said she would refund me my £20 and throughly apologized for the problems that I had encountered. She must be a credit to the company\nIt's not just the refund of the £20 its the way I was reassured. To me this very rare especially in England nowadays. ",
-      "rating": 5,
-      "author": "Shaun",
-      "date": "2026-09-16T12:28:34.000Z",
-      "url": "https://www.trustpilot.com/reviews/6aaa6f527c6ba32a8f573363"
-    },
-    {
-      "id": "6aaa69ede465c2295d266f5b",
-      "title": "Ali was very helpful and patient",
-      "body": "Ali was very helpful and patient. He advised me to get my eSIM working.",
-      "rating": 5,
-      "author": "Sus",
-      "date": "2026-09-16T12:05:33.000Z",
-      "url": "https://www.trustpilot.com/reviews/6aaa69ede465c2295d266f5b"
-    },
-    {
-      "id": "6aaa68492a2b5aab706c58e3",
-      "title": "Delivered wrong product",
-      "body": "Delivered wrong product, confirmation email didn’t indicate the product or order value, initially refused refund, claimed it was “known issue”, insisted I activate the wrong product,  eventually agreed to refund if said I wasn’t travelling any more but evaded confirming the refund amount. ",
-      "rating": 1,
-      "author": "Oscar",
-      "date": "2026-09-16T11:58:33.000Z",
-      "url": "https://www.trustpilot.com/reviews/6aaa68492a2b5aab706c58e3"
-    },
-    {
-      "id": "6aaa60f1dc77a1253a834d5b",
-      "title": "The eSIM didn’t work for me",
-      "body": "The eSIM didn’t work for me, but Ali from Lebara was excellent. He was professional, reassuring, and quickly arranged a full refund. He put me at ease straight away and made the whole experience hassle-free. Exceptional customer service from Ali",
-      "rating": 5,
-      "author": "Abu Tarab Raja",
-      "date": "2026-09-16T11:27:13.000Z",
-      "url": "https://www.trustpilot.com/reviews/6aaa60f1dc77a1253a834d5b"
-    },
-    {
-      "id": "6aa96c1450342e3e6f3424a3",
-      "title": "Sanika  sorted out my problem…",
-      "body": "Sanika  sorted out my problem connecting he was so helpful kind and patient I am not technically minded so definitely fantastic customer services 5* service from Sanika.",
-      "rating": 5,
-      "author": "Dawn Ablett",
-      "date": "2026-09-15T18:02:28.000Z",
-      "url": "https://www.trustpilot.com/reviews/6aa96c1450342e3e6f3424a3"
     }
   ],
-  "fetchedAt": "2026-09-24T16:43:24.213Z"
+  "fetchedAt": "2026-09-24T21:16:37.049Z"
 }
