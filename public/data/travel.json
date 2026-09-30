@@ -17,6 +17,51 @@
   },
   "reviews": [
     {
+      "id": "6abc5fdbb64360ed7e7f652e",
+      "title": "Chandrakant was very helpful with…",
+      "body": "Chandrakant was very helpful with setting up my sim. Thank you ",
+      "rating": 5,
+      "author": "A.brown",
+      "date": "2026-09-30T03:03:23.000Z",
+      "url": "https://www.trustpilot.com/reviews/6abc5fdbb64360ed7e7f652e"
+    },
+    {
+      "id": "6abc342a9aba222a0662762e",
+      "title": "Contact with chat",
+      "body": "Arjun was the person that took the chat. He was polite, quick and efficient. He explains the issue and was able to raise a refund which I greatly appreciated. Excellent service from Arjun",
+      "rating": 5,
+      "author": "Neels",
+      "date": "2026-09-29T23:56:58.000Z",
+      "url": "https://www.trustpilot.com/reviews/6abc342a9aba222a0662762e"
+    },
+    {
+      "id": "6abbbaf2ccb0e8ca1c9a41d9",
+      "title": "Very helpful was panicking that i used…",
+      "body": "Very helpful was panicking that i used all my data in the 1st 2 days but all good great customer service 👍 ",
+      "rating": 5,
+      "author": "Paul Peacock",
+      "date": "2026-09-29T15:19:46.000Z",
+      "url": "https://www.trustpilot.com/reviews/6abbbaf2ccb0e8ca1c9a41d9"
+    },
+    {
+      "id": "6abb82877f4ebb6032c63cb0",
+      "title": "I had an issue with my signal but lebra…",
+      "body": "I had an issue with my signal but lebra sorted it and gave me a refund, couldn’t be happier. Also had follow up calls ",
+      "rating": 5,
+      "author": "Paul Brooks",
+      "date": "2026-09-29T11:19:03.000Z",
+      "url": "https://www.trustpilot.com/reviews/6abb82877f4ebb6032c63cb0"
+    },
+    {
+      "id": "6abb7a3aa331a570b6faf1dd",
+      "title": "Refund request ",
+      "body": "I had support from Chetan to enable a refund for my esim as it didn't work. He did the checks needed and then started the process for the refund. Very helpful. ",
+      "rating": 5,
+      "author": "Vimal B",
+      "date": "2026-09-29T10:43:38.000Z",
+      "url": "https://www.trustpilot.com/reviews/6abb7a3aa331a570b6faf1dd"
+    },
+    {
       "id": "6abb1e7c893f6eca70643c58",
       "title": "Ali was very helpful and the help went",
       "body": "Ali was very helpful and the help went very smoothly ",
@@ -510,52 +555,7 @@
       "author": "Jorge",
       "date": "2026-09-19T01:25:42.000Z",
       "url": "https://www.trustpilot.com/reviews/6aadc876285240a06a2a160b"
-    },
-    {
-      "id": "6aad6dfc1ee384bf62f0a38b",
-      "title": "Thankyou Adarsh",
-      "body": "Adarsh helped me sort out my roaming issue. ",
-      "rating": 5,
-      "author": "Kerry Greaves",
-      "date": "2026-09-18T18:59:40.000Z",
-      "url": "https://www.trustpilot.com/reviews/6aad6dfc1ee384bf62f0a38b"
-    },
-    {
-      "id": "6aad5b8910cd74b1a8361f29",
-      "title": "Shivam sorted out my issues quickly and…",
-      "body": "Shivam sorted out my issues quickly and calmly. Helped me with going through a process one step at a time ",
-      "rating": 5,
-      "author": "Michael Elliott",
-      "date": "2026-09-18T17:40:57.000Z",
-      "url": "https://www.trustpilot.com/reviews/6aad5b8910cd74b1a8361f29"
-    },
-    {
-      "id": "6aad5840e17a30413ff2a04a",
-      "title": "It took a while to get my e-SIM to…",
-      "body": "It took a while to get my e-SIM to work. Ali was the third person at Lebara trying to help and he was brilliant and my e-SIM is now working! ",
-      "rating": 4,
-      "author": "U W",
-      "date": "2026-09-18T17:26:56.000Z",
-      "url": "https://www.trustpilot.com/reviews/6aad5840e17a30413ff2a04a"
-    },
-    {
-      "id": "6aad4d76b3bd9cbfb2ff90fe",
-      "title": " great service.",
-      "body": "Pooja was of great service. ",
-      "rating": 5,
-      "author": "MS",
-      "date": "2026-09-18T16:40:54.000Z",
-      "url": "https://www.trustpilot.com/reviews/6aad4d76b3bd9cbfb2ff90fe"
-    },
-    {
-      "id": "6aad4aed05d2d5be768ee4ca",
-      "title": "First rate help",
-      "body": "Shivam was very helpful and gave me clear advice that was easy to understand.\n\nAs a result I will be going ahead with my travel esim purchase\n\nIf only all advice over the net was a clear.\n\nMany thanks 😁",
-      "rating": 5,
-      "author": "Nick",
-      "date": "2026-09-18T16:30:05.000Z",
-      "url": "https://www.trustpilot.com/reviews/6aad4aed05d2d5be768ee4ca"
     }
   ],
-  "fetchedAt": "2026-09-30T04:37:02.426Z"
+  "fetchedAt": "2026-09-30T12:07:16.810Z"
 }
