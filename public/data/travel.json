@@ -1,7 +1,7 @@
 {
   "source": "travel",
   "label": "Lebara Travel eSIM",
-  "avgRating": 4.7,
+  "avgRating": 4.8,
   "totalReviews": 60,
   "sentimentBreakdown": {
     "positive": 0,
@@ -17,10 +17,91 @@
   },
   "reviews": [
     {
+      "id": "6ac5518201fa91490d0019c4",
+      "title": "Excellent customer service ",
+      "body": "Ali was very knowledgeable and helpful! Thank you Ali for making this so easy 😃",
+      "rating": 5,
+      "author": "Shob",
+      "date": "2026-10-06T21:52:34.000Z",
+      "url": "https://www.trustpilot.com/reviews/6ac5518201fa91490d0019c4"
+    },
+    {
+      "id": "6ac51484c31168602cd0752f",
+      "title": "Vanshiks was very helpful",
+      "body": "Vanshiks was very helpful, and kind. My problem was solved very easy and nice way. Thank you so much .Regards Anna",
+      "rating": 5,
+      "author": "Anna",
+      "date": "2026-10-06T17:32:21.000Z",
+      "url": "https://www.trustpilot.com/reviews/6ac51484c31168602cd0752f"
+    },
+    {
+      "id": "6ac455aa59ab2007fead552f",
+      "title": "Great help from Rohan to resolve issue…",
+      "body": "Great help from Rohan to resolve issue with connecting to mobile data",
+      "rating": 5,
+      "author": "Alun",
+      "date": "2026-10-06T03:58:02.000Z",
+      "url": "https://www.trustpilot.com/reviews/6ac455aa59ab2007fead552f"
+    },
+    {
+      "id": "6ac41048a8610c9da2c0d77b",
+      "title": "eSIM confusion!",
+      "body": "Rohan was very patient and helped fix the problem quickly. Thank you. ",
+      "rating": 5,
+      "author": "Jacqueline Swift",
+      "date": "2026-10-05T23:02:00.000Z",
+      "url": "https://www.trustpilot.com/reviews/6ac41048a8610c9da2c0d77b"
+    },
+    {
+      "id": "6ac3eb507eada0f93f6070a7",
+      "title": "The person who helped me",
+      "body": "The person who helped me, Shreya, was very patient, understanding and helpful. And am very happy and thankful for their help.",
+      "rating": 5,
+      "author": "Kai Pattison",
+      "date": "2026-10-05T20:24:16.000Z",
+      "url": "https://www.trustpilot.com/reviews/6ac3eb507eada0f93f6070a7"
+    },
+    {
+      "id": "6ac3e18f447c06ced3e0822a",
+      "title": "Just checked to ensure I had added the…",
+      "body": "Just checked to ensure I had added the purchased e-sim correctly, super fast response and easy to chat. My mind has been put at ease. ",
+      "rating": 5,
+      "author": "Bob Jones",
+      "date": "2026-10-05T19:42:39.000Z",
+      "url": "https://www.trustpilot.com/reviews/6ac3e18f447c06ced3e0822a"
+    },
+    {
+      "id": "6ac3b783f89df81f43847637",
+      "title": "Data usage",
+      "body": "The APP showed my data usage. Note that the green bar isnt showing what you've used , it's showing what is left. I contacted the online chat and spoke to Shubham, he checked and confirmed what data is had left. Very efficient service and put my mind at rest!",
+      "rating": 5,
+      "author": "Sarah Evans",
+      "date": "2026-10-05T16:43:15.000Z",
+      "url": "https://www.trustpilot.com/reviews/6ac3b783f89df81f43847637"
+    },
+    {
+      "id": "6ac39f3661e8e6b2d866e051",
+      "title": "Great service from Karanpreet",
+      "body": "Great service from Karanpreet",
+      "rating": 5,
+      "author": "Joshua Riding",
+      "date": "2026-10-05T14:59:35.000Z",
+      "url": "https://www.trustpilot.com/reviews/6ac39f3661e8e6b2d866e051"
+    },
+    {
+      "id": "6ac39b47c7e8b75ee4ab234e",
+      "title": "Learning the hard way about an esim",
+      "body": "I was on holiday and needed roaming data as the hotel wifi was poor. I bought some add on data but it was much cheaper to use an esim - something I had never used before in all of my 71 years. Needless to say that it didn't work so I tried again, once more apparently unsuccessfully. Faced with this I bought more roaming data and completed the holiday.\nIt transpires that I should have downloaded the esim but I didn't so I noticed I had been charged for both transactions when I looked at my bank statement after returning home.\nI tried standard Lebara customer services as they've always been helpful and they put me on to their separate travel section. After a few minutes of explanation and checking the refund for the esim's I never used is now on it's way back to my account. Excellent service again",
+      "rating": 5,
+      "author": "Kevin Wilkinson",
+      "date": "2026-10-05T14:42:47.000Z",
+      "url": "https://www.trustpilot.com/reviews/6ac39b47c7e8b75ee4ab234e"
+    },
+    {
       "id": "6ac38410347a35b65f023425",
       "title": "Bought eSIM for Turkey whilst…",
-      "body": "Bought eSIM for Turkey whilst travelling from UK. \nIt would not work and having spent 40 minutes talking to a Bot it still didn’t work. \nRefused a refund as it had been installed !\nDisgraceful ",
-      "rating": 1,
+      "body": "Bought eSIM for Turkey whilst travelling from UK. \nI had trouble activating the esim upon arrival but fortunately a refund was issued , so all good. ",
+      "rating": 4,
       "author": "mark Buxton",
       "date": "2026-10-05T13:03:44.000Z",
       "url": "https://www.trustpilot.com/reviews/6ac38410347a35b65f023425"
@@ -474,88 +555,7 @@
       "author": "Anne",
       "date": "2026-09-25T12:37:14.000Z",
       "url": "https://www.trustpilot.com/reviews/6ab64eda4ed285e43ef5a5ad"
-    },
-    {
-      "id": "6ab5c8f66f86421b55f15c6e",
-      "title": "Ali did a good job.",
-      "body": "Ali did a good job.\n\nInstructions provided when buying the Japan esim are inadequate and need to be more comprehensive",
-      "rating": 4,
-      "author": "Mr Crook",
-      "date": "2026-09-25T03:05:58.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ab5c8f66f86421b55f15c6e"
-    },
-    {
-      "id": "6ab595d5372e56f2f1c1cac1",
-      "title": "Smita & Ali ",
-      "body": "Smita and Ali helped me a lot with my issue! Quickly solved and clear on the instructions.",
-      "rating": 5,
-      "author": "Consumer",
-      "date": "2026-09-24T23:27:49.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ab595d5372e56f2f1c1cac1"
-    },
-    {
-      "id": "6ab58cadc1ed28a6f1b21c85",
-      "title": "Very helpful Costumer service",
-      "body": "Very helpful Costumer service ",
-      "rating": 5,
-      "author": "Halil Kilic",
-      "date": "2026-09-24T22:48:45.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ab58cadc1ed28a6f1b21c85"
-    },
-    {
-      "id": "6ab53ad57b41cfafc625e2f6",
-      "title": "Pranav was able to help and reassure me…",
-      "body": "Pranav was able to help amd reassure me very promptly regarding e sim.settings..all good!!!!",
-      "rating": 5,
-      "author": "Andy Field",
-      "date": "2026-09-24T16:59:33.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ab53ad57b41cfafc625e2f6"
-    },
-    {
-      "id": "6ab4f609b496f20b77c052ae",
-      "title": "Great response just what I needed and…",
-      "body": "Great response just what I needed and quick ",
-      "rating": 5,
-      "author": "Tammy Flavell",
-      "date": "2026-09-24T12:06:01.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ab4f609b496f20b77c052ae"
-    },
-    {
-      "id": "6ab4c580992b0c44a0f3581c",
-      "title": "Chetan was incredibly helpful",
-      "body": "Chetan was incredibly helpful, the best there’s ever been ",
-      "rating": 5,
-      "author": "Danny",
-      "date": "2026-09-24T08:38:56.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ab4c580992b0c44a0f3581c"
-    },
-    {
-      "id": "6ab488cb144d6d88c7802ab7",
-      "title": "Quick and easy help",
-      "body": "Quick and easy help, manage to resolve the issue whilst travelling in a cab! Great customer service!",
-      "rating": 5,
-      "author": "Alex Gannon",
-      "date": "2026-09-24T04:19:55.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ab488cb144d6d88c7802ab7"
-    },
-    {
-      "id": "6ab45964e8a803f4e95b4e19",
-      "title": "Arjun was patient and friendly…",
-      "body": "Arjun was patient and friendly throughout. He is a credit to the company ",
-      "rating": 5,
-      "author": "ALISTER DAVID KAY",
-      "date": "2026-09-24T00:57:40.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ab45964e8a803f4e95b4e19"
-    },
-    {
-      "id": "6ab4041917b92e057e9a467d",
-      "title": "Quick and easy to deal with",
-      "body": "Quick and easy to deal with, got the answers i wanted in a few minutes ",
-      "rating": 5,
-      "author": "Justin",
-      "date": "2026-09-23T18:53:45.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ab4041917b92e057e9a467d"
     }
   ],
-  "fetchedAt": "2026-10-06T12:57:56.136Z"
+  "fetchedAt": "2026-10-06T22:28:06.600Z"
 }
