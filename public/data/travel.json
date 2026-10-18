@@ -17,6 +17,15 @@
   },
   "reviews": [
     {
+      "id": "6ad483889af21d6455930418",
+      "title": "I had an issue setting up my esim due…",
+      "body": "I had an issue setting up my esim due to app fault and Anurag managed to help guide me through getting set up at my destination.",
+      "rating": 4,
+      "author": "Lynsey",
+      "date": "2026-10-18T10:30:00.000Z",
+      "url": "https://www.trustpilot.com/reviews/6ad483889af21d6455930418"
+    },
+    {
       "id": "6ad3508cf61a934a18057cb4",
       "title": "Esim problem solving",
       "body": "Sashimi answered all my questions quickly and efficiently! Very, very helpful\nLebara customer services are always excellent.",
@@ -546,16 +555,7 @@
       "author": "Braedyn Miller",
       "date": "2026-10-07T23:40:51.000Z",
       "url": "https://www.trustpilot.com/reviews/6ac6bc63a4f1532f04c8d463"
-    },
-    {
-      "id": "6ac6b7c7181894ea9da9f16e",
-      "title": "A fantastic service",
-      "body": "A fantastic service. A very helpful member of your team - Rohan. He was able to completely resolve and fix my e-sim problem. ",
-      "rating": 5,
-      "author": "MRS DENISE KIDD",
-      "date": "2026-10-07T23:21:11.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ac6b7c7181894ea9da9f16e"
     }
   ],
-  "fetchedAt": "2026-10-18T10:34:35.479Z"
+  "fetchedAt": "2026-10-18T15:33:29.994Z"
 }
