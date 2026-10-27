@@ -1,7 +1,7 @@
 {
   "source": "mobile",
   "label": "Lebara Mobile UK",
-  "avgRating": 4.4,
+  "avgRating": 4.5,
   "totalReviews": 60,
   "sentimentBreakdown": {
     "positive": 0,
@@ -17,184 +17,184 @@
   },
   "reviews": [
     {
-      "id": "6ade9178448f6c1dcc3e4412",
-      "title": "Useless customer sevices",
-      "body": "I contacted the customer services team because I was having trouble with my data speeds. The first agent wasn’t helpful and within the space of about 30 seconds he sent three messages claiming I wasn’t responding just so he could prematurely end the chat. I started a second chat and asked to be put through to a supervisor, but none was available without any explanation. Really poor service and I’m still no closer to a resolution. ",
+      "id": "6adfc55e52677db5d10ad591",
+      "title": "Great experience",
+      "body": "Great experience ",
+      "rating": 5,
+      "author": "Changaiz Khan",
+      "date": "2026-10-26T23:25:50.000Z",
+      "url": "https://www.trustpilot.com/reviews/6adfc55e52677db5d10ad591"
+    },
+    {
+      "id": "6adfbe4d15867c5fe5df1a2d",
+      "title": "She was very nicely helped me for my…",
+      "body": "She was very nicely helped me for my deactive sim card",
+      "rating": 5,
+      "author": "Jay Sharma",
+      "date": "2026-10-26T22:55:41.000Z",
+      "url": "https://www.trustpilot.com/reviews/6adfbe4d15867c5fe5df1a2d"
+    },
+    {
+      "id": "6adfb1a4d8030238633761b6",
+      "title": "Hii.",
+      "body": "Hii.\nThis is my first experience setting up my sim card in the UK, and Ms. Palak was very kind and patient with me. I truely appreciate it.\n\nAlso, I share the same sentiment with Mr. Chirag Shah, he was understanding and patient with me.\n\nThank you, Ms. Palak, Mr. Shah and Lebera.",
+      "rating": 5,
+      "author": "chumzych",
+      "date": "2026-10-26T22:01:40.000Z",
+      "url": "https://www.trustpilot.com/reviews/6adfb1a4d8030238633761b6"
+    },
+    {
+      "id": "6adfa6f66ec25ddfdf79b041",
+      "title": "Super service",
+      "body": "I had a very difficult day not being able to access my account , the problem was sorted out very easily by vaibhav deshmukh he is a super star , a big thankyou from me \n",
+      "rating": 5,
+      "author": "customer",
+      "date": "2026-10-26T21:16:06.000Z",
+      "url": "https://www.trustpilot.com/reviews/6adfa6f66ec25ddfdf79b041"
+    },
+    {
+      "id": "6adfa4876a3270a502d96888",
+      "title": "Thank you and Tanzeem Shaikh for kind…",
+      "body": "Thank you and Tanzeem Shaikh for kind follow up and taking feedback. ",
+      "rating": 5,
+      "author": "Nahal Mirzaie",
+      "date": "2026-10-26T21:05:43.000Z",
+      "url": "https://www.trustpilot.com/reviews/6adfa4876a3270a502d96888"
+    },
+    {
+      "id": "6adfa350740f599ab298da17",
+      "title": "Very helpful Himani",
+      "body": "Very helpful Himani ",
+      "rating": 5,
+      "author": "Shivam Bhola",
+      "date": "2026-10-26T21:00:32.000Z",
+      "url": "https://www.trustpilot.com/reviews/6adfa350740f599ab298da17"
+    },
+    {
+      "id": "6adf8d946dd2d9560429f8cc",
+      "title": "Excellent service by Asish",
+      "body": "Excellent service by Asish. Resolved the issue on line within few minutes. ",
+      "rating": 5,
+      "author": "Varghese P",
+      "date": "2026-10-26T19:27:48.000Z",
+      "url": "https://www.trustpilot.com/reviews/6adf8d946dd2d9560429f8cc"
+    },
+    {
+      "id": "6adf8d69d67d74d311cb5ad6",
+      "title": "Excellent explanation quick and…",
+      "body": "Excellent explanation quick and detailed and exactly to the point \nEasy to understand as well",
+      "rating": 5,
+      "author": "Mr David Goodfellow",
+      "date": "2026-10-26T19:27:05.000Z",
+      "url": "https://www.trustpilot.com/reviews/6adf8d69d67d74d311cb5ad6"
+    },
+    {
+      "id": "6adf8bea816990ee06f34f2c",
+      "title": "Sameer Raut is a top customer service…",
+      "body": "Sameer Raut is a top customer service representative. I had ran out of data yesterday and paid for an add on. However instead of adding this too my phone I added it to my fathers account. Sameer put through a refund request for me and answered a few questions I had as well. Very efficient ",
+      "rating": 5,
+      "author": "JUNED ",
+      "date": "2026-10-26T19:20:42.000Z",
+      "url": "https://www.trustpilot.com/reviews/6adf8bea816990ee06f34f2c"
+    },
+    {
+      "id": "6adf8a97d584dcf988c892f5",
+      "title": "Ketan responded to my problem promptly…",
+      "body": "Ketan responded to my problem promptly and sorted it out.",
+      "rating": 5,
+      "author": "Keith Hacker",
+      "date": "2026-10-26T19:15:03.000Z",
+      "url": "https://www.trustpilot.com/reviews/6adf8a97d584dcf988c892f5"
+    },
+    {
+      "id": "6adf86a1fa2e60300c9e7e2f",
+      "title": "Palak is awesome",
+      "body": "Palak is awesome! She really helps me out with everything, and I’m super grateful for that!",
+      "rating": 5,
+      "author": "Mehak Bhalla",
+      "date": "2026-10-26T18:58:10.000Z",
+      "url": "https://www.trustpilot.com/reviews/6adf86a1fa2e60300c9e7e2f"
+    },
+    {
+      "id": "6adf84e6ea4f795671ac3364",
+      "title": "Ayan helped me out very well today",
+      "body": "Ayan helped me out very well today, he was very quick and understanding! ",
+      "rating": 5,
+      "author": "Uday Krishna S",
+      "date": "2026-10-26T18:50:46.000Z",
+      "url": "https://www.trustpilot.com/reviews/6adf84e6ea4f795671ac3364"
+    },
+    {
+      "id": "6adf844a5f2cf0a5193e7e37",
+      "title": "B NIKHIL WAS ABSOLUTELY BRILLIANT IN…",
+      "body": "B NIKHIL WAS ABSOLUTELY BRILLIANT IN THE MANNER HE HANDLED MY QUERY...\n",
+      "rating": 5,
+      "author": "Navtej Boora",
+      "date": "2026-10-26T18:48:10.000Z",
+      "url": "https://www.trustpilot.com/reviews/6adf844a5f2cf0a5193e7e37"
+    },
+    {
+      "id": "6adf8293d734e2bbf5a501c8",
+      "title": "Spoke to Akshayj who was very patient…",
+      "body": "Spoke to Akshayj who was very patient and professional over a long phone call.  He explained everything and although it took a while for me to understand, he made sure I knew what to do next and I am very grateful for his help.",
+      "rating": 5,
+      "author": "Fletcher",
+      "date": "2026-10-26T18:40:51.000Z",
+      "url": "https://www.trustpilot.com/reviews/6adf8293d734e2bbf5a501c8"
+    },
+    {
+      "id": "6adf81184ba8eea8b77f20e5",
+      "title": "Helped me resolve an issue with no…",
+      "body": "Helped me resolve an issue with no outgoing calls be allowed to be made whilst in Greece. Took about 10 minutes to finally get it sorted",
+      "rating": 5,
+      "author": "Tracy Hinton",
+      "date": "2026-10-26T18:34:32.000Z",
+      "url": "https://www.trustpilot.com/reviews/6adf81184ba8eea8b77f20e5"
+    },
+    {
+      "id": "6adf761b5f5fbb08a9575d73",
+      "title": "I had a problem which was brilliantly…",
+      "body": "I had a problem which was brilliantly solved by the call handler - thank you Lebara!",
+      "rating": 5,
+      "author": "Paula Byrne",
+      "date": "2026-10-26T17:47:39.000Z",
+      "url": "https://www.trustpilot.com/reviews/6adf761b5f5fbb08a9575d73"
+    },
+    {
+      "id": "6adf744680814ee3d2720e76",
+      "title": "I had a slight problem with my Lebara…",
+      "body": "I had a slight problem with my Lebara account and Lebaras customer service agent Ashish G was very helpful, polite and patient. The problem is now hopefully fixed. I would definitely recommend Lebara as a network provider.",
+      "rating": 5,
+      "author": "Andrew Priest",
+      "date": "2026-10-26T17:39:50.000Z",
+      "url": "https://www.trustpilot.com/reviews/6adf744680814ee3d2720e76"
+    },
+    {
+      "id": "6adf66727b2c792d4a83bc25",
+      "title": "Hugely disappointed",
+      "body": "Hugely disappointed, i ordered the iphone duo on preorder and had it confirmed that deliver was as soon as iPhone was released on the 22nd (expect delivery next day)\nI call on Saturday to be told the delivery had arrived and just needed checking into the warehouse today (monday 26th) i would then get next day delivery. I call again today (26th) and was told phones won’t be in until at least 7th november. It seems i get a differant story each time i call. \nLooking like i will cancel my order alltogether and get a refund and buy it elsewhere with a more reliable company. \nMy advise is stick with Lebara for data but steer clear if you’re buying a new handset. \nVery disappointing service.",
       "rating": 1,
-      "author": "Oliver C",
-      "date": "2026-10-26T01:32:08.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ade9178448f6c1dcc3e4412"
+      "author": "Nick",
+      "date": "2026-10-26T16:40:50.000Z",
+      "url": "https://www.trustpilot.com/reviews/6adf66727b2c792d4a83bc25"
     },
     {
-      "id": "6ade6edf1809e50be9e0c450",
-      "title": "Adnaan was great and efficient at…",
-      "body": "Adnaan was great and efficient at helping with my request!",
+      "id": "6adf6341bb02680a64f224be",
+      "title": "Antra was very helpful in fixing my…",
+      "body": "Antra was very helpful in fixing my problems but the person before not so much, I was able to get back on to my deal I was on ,but it should not have been cancelled after two times payment failure, as they do state after 90 days your plan will come to a end, not two days!!!!",
       "rating": 5,
-      "author": "Celine Chia-Ying Chi",
-      "date": "2026-10-25T23:04:31.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ade6edf1809e50be9e0c450"
+      "author": "Lee Parr",
+      "date": "2026-10-26T16:27:13.000Z",
+      "url": "https://www.trustpilot.com/reviews/6adf6341bb02680a64f224be"
     },
     {
-      "id": "6ade66594d1d21651399bf92",
-      "title": "The service was excellent",
-      "body": "The service was excellent. Omkar Patil was very attentive, helpful, and efficient throughout the process.Great service and really appreciate his help.",
+      "id": "6adf5fddf7ef0e7e75550997",
+      "title": "Sohail Pathan",
+      "body": "Sohail Pathan, was extremely polite and helpful. He answered all my questions, so it was useful for me to have been contacted by him. Many thanks Sohail.",
       "rating": 5,
-      "author": "Liu",
-      "date": "2026-10-25T22:28:09.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ade66594d1d21651399bf92"
-    },
-    {
-      "id": "6ade5ea3cc114828687db858",
-      "title": "Really help me in a crucial situation",
-      "body": "Really help me in a crucial situation ",
-      "rating": 5,
-      "author": "Vinit Pillai",
-      "date": "2026-10-25T21:55:15.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ade5ea3cc114828687db858"
-    },
-    {
-      "id": "6ade5665200501d5f7c0d976",
-      "title": "Omkar Patil solved my issue! Brilliant chap! ",
-      "body": "Omkar Patil was super helpful and sorted my problem out! ",
-      "rating": 5,
-      "author": "S L Lundblad",
-      "date": "2026-10-25T21:20:05.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ade5665200501d5f7c0d976"
-    },
-    {
-      "id": "6ade4e58aa236398511b5ade",
-      "title": "Great Experience",
-      "body": "Darshan was very prompt and helpful. He helped me manage my concern efficiently. Thank you Darshan! ",
-      "rating": 5,
-      "author": "Hanein Mostafa",
-      "date": "2026-10-25T20:45:44.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ade4e58aa236398511b5ade"
-    },
-    {
-      "id": "6ade4ada7fe5ab5da1ea10ed",
-      "title": "The information provided by Virender…",
-      "body": "The information provided by Virender was very informative and helpful. He explained everything clearly and even shared details we weren’t aware of about our package, including the 100 minutes of international calls included in our plan.\n\nMany thanks to Virender for his excellent service and to LEBARA for providing such great customer support!",
-      "rating": 5,
-      "author": "Maku",
-      "date": "2026-10-25T20:30:50.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ade4ada7fe5ab5da1ea10ed"
-    },
-    {
-      "id": "6ade49cfaa940a54ac5b6639",
-      "title": "Excellent service",
-      "body": "Excellent service! The staff were friendly, helpful, and professional. I'm very happy with the overall experience. Highly recommended!\n\nThnk you rapan for your help ",
-      "rating": 5,
-      "author": "Nirali Patel",
-      "date": "2026-10-25T20:26:23.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ade49cfaa940a54ac5b6639"
-    },
-    {
-      "id": "6ade47734ace88c636ed83e8",
-      "title": "Customer satisfaction ",
-      "body": "Well after 2 long painful weeks I can honestly say that Aarti Jain has listened to me and sorted the transfer of my number from O2. \nI would also like to say his English is perfect as is his patients. \nThank you Aarti well done. \nYou deserve a pay rise. \nRegards from a thankful customer. \nJohn Wood. ",
-      "rating": 5,
-      "author": "John Wood",
-      "date": "2026-10-25T20:16:19.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ade47734ace88c636ed83e8"
-    },
-    {
-      "id": "6ade3790ad23b1b333a58c90",
-      "title": "Atharva Halgatti Is excellent and kind",
-      "body": "Atharva Halgatti Is excellent and kind, he has a good customer service and provide prompt solution ",
-      "rating": 5,
-      "author": "Seyi",
-      "date": "2026-10-25T19:08:32.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ade3790ad23b1b333a58c90"
-    },
-    {
-      "id": "6ade378859b84ace9c88f8fb",
-      "title": "Huge Thank  you to Miss Simran Sharma…",
-      "body": "Huge Thank  you to Miss Simran Sharma who help me to solve my problem quickly . I'm Lebara Costomer since 2023. Whenever I have issue I call Lebara Customer care n they solve it fast. Once again Thanx to Simran Sharma.",
-      "rating": 5,
-      "author": "Reena Gurung",
-      "date": "2026-10-25T19:08:24.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ade378859b84ace9c88f8fb"
-    },
-    {
-      "id": "6ade32df54a3ea93993319c3",
-      "title": "Lebara are really letting me down ",
-      "body": "Regretting my switch to Lebara. \n\nLost the ability to message my relative on an android phone, almost two weeks ago and still no closer to being able to. I’m going around in circles and genuinely have had enough. \n\n@Lebara, why would I leave my personal details on here? \n\nI’ve had three phone calls from your team, each one unable to help. I’m passed to an other person. I’ve already started searching for other network providers.",
-      "rating": 1,
-      "author": "Susan Cooper",
-      "date": "2026-10-25T18:48:31.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ade32df54a3ea93993319c3"
-    },
-    {
-      "id": "6ade2f732d5ca7a8f5c83fd2",
-      "title": "had a problem with top up",
-      "body": "had a problem with top up, lebara sorted it straight out thanks to veeresh, sorting it out for me, so thanks very much!",
-      "rating": 5,
-      "author": "lewis",
-      "date": "2026-10-25T18:33:55.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ade2f732d5ca7a8f5c83fd2"
-    },
-    {
-      "id": "6ade2de90ac3ccc4b734bf67",
-      "title": "Abhishek Benjamin was very polite",
-      "body": "Abhishek Benjamin was very polite, patient and helpful. He was able to help me solve the issue I was having & gave me a very clear explanation to help me understand the correct t process- thank you! ",
-      "rating": 5,
-      "author": "Emma Taylor",
-      "date": "2026-10-25T18:27:21.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ade2de90ac3ccc4b734bf67"
-    },
-    {
-      "id": "6ade2a4d6e3aae428142945c",
-      "title": "Bhagyashree – A Great Asset to the Lebara Team",
-      "body": "Was assisted by Bhagyashree today and she sorted out the issue. \nShe is a great asset to the organisation.",
-      "rating": 5,
-      "author": "kirthivasanr",
-      "date": "2026-10-25T18:11:58.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ade2a4d6e3aae428142945c"
-    },
-    {
-      "id": "6ade29792be5f3700eaf23a4",
-      "title": "Great service",
-      "body": "Great service ",
-      "rating": 5,
-      "author": "Consumer",
-      "date": "2026-10-25T18:08:25.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ade29792be5f3700eaf23a4"
-    },
-    {
-      "id": "6ade2846e9a6f54ac50222ec",
-      "title": "I was trying to cancel my Lebara mobile…",
-      "body": "I was trying to cancel my Lebara mobile connection via MyLebara app and was facing problems.\nAfter chatting with Darshana I could realise that there was an error in my registered e-mail address. \nI could disable the auto renewal with her assistance and support. \nI wish to record my appreciation for the service rendered to me. \nThank you. ",
-      "rating": 5,
-      "author": "Manisha Vats",
-      "date": "2026-10-25T18:03:18.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ade2846e9a6f54ac50222ec"
-    },
-    {
-      "id": "6ade1d9a97dc5a6438013717",
-      "title": "Roaming services paid for did not work. Poor and ineffective customer services",
-      "body": "I chose Lebara because of its advertised claims to provide cheap and reliable additional roaming services packafes (calls, texts, access to internet) when travelling abroad outside the EU. In reality   the additional services/packages  i then paid Lebara for  (via sims and also esims) repeatedly did not work. This left me unable to arrange accommodation i needed and also I was often unable to access my finances while i was abroad (eg, i was unable to use my phone to make or receive calls/texts/emails  etc to/from various organisations i needed to , including my banks and also airbnb and other accommodation providers) via my phone or laptop. I had to instead resort to finding and using internet cafes, etc which was much more inconvenient and involved additional costs being incurred and the time spent/disruption to plans involved in doing this. Lebara customer services were extremely ineffective/useless when i raised this with them , and repeatedly failed to resolve these issues , despite me spending significant additional time and money trying to arrange this. The costs i incurred buying the addtional sim and esim packages which did not work were not refunded. The  barriers /lack of help put in place by lebara led to me  abandoning pursuing this further. \n\nAdditionally, when i subsequently contacted lebara to get a PAC to move to another provider i was repeatedly contacted by Lebara staff by phone and email pestering me to stay, despite me asking them to stop contacting me further.\n\n",
-      "rating": 1,
-      "author": "Customer KOS",
-      "date": "2026-10-25T17:17:46.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ade1d9a97dc5a6438013717"
-    },
-    {
-      "id": "6ade174eb5a0a0a6613d5b40",
-      "title": "An exceptional customer service…",
-      "body": "I had an exceptional customer service from Komal Survey. She was on spot. She sorted out the problem I was having to top up online. Thank you Komal. Keep up the good work.",
-      "rating": 5,
-      "author": "Mrs O",
-      "date": "2026-10-25T16:50:54.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ade174eb5a0a0a6613d5b40"
-    },
-    {
-      "id": "6ade0b0d17041ecc15a127cc",
-      "title": "Customer service was great",
-      "body": "Customer service was great. One of the agents, Harshwardhan Phadke was understanding and helped solve the issue quickly.",
-      "rating": 5,
-      "author": "Daniel Mocan",
-      "date": "2026-10-25T15:58:37.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ade0b0d17041ecc15a127cc"
+      "author": "Stewart Harding",
+      "date": "2026-10-26T16:12:45.000Z",
+      "url": "https://www.trustpilot.com/reviews/6adf5fddf7ef0e7e75550997"
     },
     {
       "id": "6adf5677aa882cf657deb828",
@@ -557,5 +557,5 @@
       "url": "https://www.trustpilot.com/reviews/6ade0159831faa5916a9a757"
     }
   ],
-  "fetchedAt": "2026-10-26T22:24:56.808Z"
+  "fetchedAt": "2026-10-27T04:11:09.812Z"
 }
