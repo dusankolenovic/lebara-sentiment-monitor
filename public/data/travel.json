@@ -1,7 +1,7 @@
 {
   "source": "travel",
   "label": "Lebara Travel eSIM",
-  "avgRating": 5,
+  "avgRating": 4.9,
   "totalReviews": 60,
   "sentimentBreakdown": {
     "positive": 0,
@@ -16,6 +16,132 @@
     "5": 0
   },
   "reviews": [
+    {
+      "id": "6ae5e9fe1052be731bd5f183",
+      "title": "So I helped me very well and sorted my…",
+      "body": "So I helped me very well and sorted my problem ",
+      "rating": 5,
+      "author": "James Muchan",
+      "date": "2026-10-31T15:15:42.000Z",
+      "url": "https://www.trustpilot.com/reviews/6ae5e9fe1052be731bd5f183"
+    },
+    {
+      "id": "6ae5e59b16616f97795ea305",
+      "title": "Anurag Is fantastic",
+      "body": "Anurag Is fantastic ",
+      "rating": 5,
+      "author": "Wu",
+      "date": "2026-10-31T14:56:59.000Z",
+      "url": "https://www.trustpilot.com/reviews/6ae5e59b16616f97795ea305"
+    },
+    {
+      "id": "6ae5de4ae39c9fef57cde5b5",
+      "title": "Ali was very helpful & answered my…",
+      "body": "Ali was very helpful & answered my query quickly.",
+      "rating": 5,
+      "author": "Julie Kavanagh",
+      "date": "2026-10-31T14:25:47.000Z",
+      "url": "https://www.trustpilot.com/reviews/6ae5de4ae39c9fef57cde5b5"
+    },
+    {
+      "id": "6ae5dcb725698de5b0bb76f0",
+      "title": "Excellent customer service from Vanshika ",
+      "body": "I had problems with my data add on not working in Barbados. Vanshika my agent talked me through each step and told me what to do where. I’m pleased to say it’s up and running now. Thank you Vanshika. ",
+      "rating": 4,
+      "author": "Paula ",
+      "date": "2026-10-31T14:19:03.000Z",
+      "url": "https://www.trustpilot.com/reviews/6ae5dcb725698de5b0bb76f0"
+    },
+    {
+      "id": "6ae5ae67dfacf72a7419a4de",
+      "title": "Great service by Ali",
+      "body": "Ali guided me through the steps to resolve the issue I had with my esim as it had not been working since activation. He was polite and patient and clear with his instructions. Very helpful and all resolved in one online chat.",
+      "rating": 5,
+      "author": "S.B",
+      "date": "2026-10-31T11:01:27.000Z",
+      "url": "https://www.trustpilot.com/reviews/6ae5ae67dfacf72a7419a4de"
+    },
+    {
+      "id": "6ae59696ab1d4c2a53484030",
+      "title": "Nitin helped me very kindly with my…",
+      "body": "Nitin helped me very kindly with my questions. Also I was happy not to chat with a bot, but with a real person! Appreciate that. ",
+      "rating": 5,
+      "author": "Clara Haseloff",
+      "date": "2026-10-31T09:19:50.000Z",
+      "url": "https://www.trustpilot.com/reviews/6ae59696ab1d4c2a53484030"
+    },
+    {
+      "id": "6ae51b4b91184a2dee4be175",
+      "title": "Sumedh provided an excellent service…",
+      "body": "Sumedh provided an excellent service and dotted my problem immediately. Well done Lebara",
+      "rating": 5,
+      "author": "Bel",
+      "date": "2026-10-31T00:33:47.000Z",
+      "url": "https://www.trustpilot.com/reviews/6ae51b4b91184a2dee4be175"
+    },
+    {
+      "id": "6ae51b12f9a79b2d9dcac996",
+      "title": "Excellent instructions from Aman",
+      "body": "Excellent instructions from Aman. Hopefully I will have no further issues with my USA eSIM after chatting with Aman as I have been without it yesterday evening and all day today. ",
+      "rating": 5,
+      "author": "Colin M",
+      "date": "2026-10-31T00:32:50.000Z",
+      "url": "https://www.trustpilot.com/reviews/6ae51b12f9a79b2d9dcac996"
+    },
+    {
+      "id": "6ae4d14838203ca6b120a639",
+      "title": "Helpful and knowledgable.",
+      "body": "Spoke to Pranav, helped me understand how this would work with my existing mobile number. Very friendly and efficient.",
+      "rating": 5,
+      "author": "KMc",
+      "date": "2026-10-30T19:18:00.000Z",
+      "url": "https://www.trustpilot.com/reviews/6ae4d14838203ca6b120a639"
+    },
+    {
+      "id": "6ae4c702235ecb0f2c600e3d",
+      "title": "Prapti was the third agent who tried to…",
+      "body": "Prapti was the third agent who tried to fix my issue and the only one who actually fixed it. Thank you! Very responsive and patient. ",
+      "rating": 5,
+      "author": "Ruth Porter",
+      "date": "2026-10-30T18:34:10.000Z",
+      "url": "https://www.trustpilot.com/reviews/6ae4c702235ecb0f2c600e3d"
+    },
+    {
+      "id": "6ae4b22dff6e89d7a20fde76",
+      "title": "Ali was very helpful and explained…",
+      "body": "Ali was very helpful and explained everything very clearly and detailed compared to other person and sorted my problem out so quickly. Thank you so much!",
+      "rating": 5,
+      "author": "Ece Çaktı",
+      "date": "2026-10-30T17:05:17.000Z",
+      "url": "https://www.trustpilot.com/reviews/6ae4b22dff6e89d7a20fde76"
+    },
+    {
+      "id": "6ae4a3a4aa9a2d4f8c215f5d",
+      "title": "Thank you very helpful Ali",
+      "body": "Thank you very helpful Ali ",
+      "rating": 5,
+      "author": "Qatip",
+      "date": "2026-10-30T16:03:16.000Z",
+      "url": "https://www.trustpilot.com/reviews/6ae4a3a4aa9a2d4f8c215f5d"
+    },
+    {
+      "id": "6ae4a30b5af8da6468069087",
+      "title": "Chetan was very quick to respond to my…",
+      "body": "Chetan was very quick to respond to my query ref Travel esim. I didn't have to wait for ages to be connected to the operator. I am very happy with Lebara network and operator so far",
+      "rating": 5,
+      "author": "Monica Morrison",
+      "date": "2026-10-30T16:00:43.000Z",
+      "url": "https://www.trustpilot.com/reviews/6ae4a30b5af8da6468069087"
+    },
+    {
+      "id": "6ae47e185bd6cff281ce1866",
+      "title": "Am travelling soon to numerous…",
+      "body": "Am travelling soon to numerous destinations and was unsure what I needed, Nitin helped me with all the info, thank you Nitin!",
+      "rating": 5,
+      "author": "Julie Shapter",
+      "date": "2026-10-30T13:23:04.000Z",
+      "url": "https://www.trustpilot.com/reviews/6ae47e185bd6cff281ce1866"
+    },
     {
       "id": "6ae39f067861f8e5c9d38304",
       "title": "Great company, always deliver ",
@@ -251,132 +377,6 @@
       "url": "https://www.trustpilot.com/reviews/6adf6ffcb4970cdd3bf566a9"
     },
     {
-      "id": "6adf65824bd5cbc9772a8588",
-      "title": "Ali was extremely helpful and sorted…",
-      "body": "Ali was extremely helpful and sorted out my issue in an instant. He came up with a solution that worked better than I had planned. \nThank you. ",
-      "rating": 5,
-      "author": "Aditya Patel",
-      "date": "2026-10-26T16:36:50.000Z",
-      "url": "https://www.trustpilot.com/reviews/6adf65824bd5cbc9772a8588"
-    },
-    {
-      "id": "6adf62368bcf2bc567fcfe92",
-      "title": "Ali was great",
-      "body": "Ali was great. He dealt with my query quickly and was clear with his communications. ",
-      "rating": 5,
-      "author": "christian williams",
-      "date": "2026-10-26T16:22:46.000Z",
-      "url": "https://www.trustpilot.com/reviews/6adf62368bcf2bc567fcfe92"
-    },
-    {
-      "id": "6adf5bc374076d9b2ab4fe6e",
-      "title": "Rijo Roymon gave an excellent service…",
-      "body": "Rijo Roymon gave an excellent service answered all my questions competently. Would always recommend Lebara",
-      "rating": 5,
-      "author": "Chris",
-      "date": "2026-10-26T15:55:15.000Z",
-      "url": "https://www.trustpilot.com/reviews/6adf5bc374076d9b2ab4fe6e"
-    },
-    {
-      "id": "6adf59123ac036c237a9a182",
-      "title": "Very helpful knowledgeable staff",
-      "body": "I am giving this review 5 stars only because of the person who helped me on the chat install this plan. Initially it wouldn't work but after talking me through it I now have a working esim.",
-      "rating": 5,
-      "author": "Michelle",
-      "date": "2026-10-26T15:43:46.000Z",
-      "url": "https://www.trustpilot.com/reviews/6adf59123ac036c237a9a182"
-    },
-    {
-      "id": "6adf585cda9126895ee47b72",
-      "title": "My issue was resolved with empathy",
-      "body": "My issue was resolved with empathy",
-      "rating": 5,
-      "author": "Wilson Morton",
-      "date": "2026-10-26T15:40:45.000Z",
-      "url": "https://www.trustpilot.com/reviews/6adf585cda9126895ee47b72"
-    },
-    {
-      "id": "6adf4d5f8183e4237b69b57d",
-      "title": "Great service ",
-      "body": "Prapti was very helpful and patient working through my problems with installation, provided excellent service! \nThank you Prapti, all problems sorted and e-sim ready to use for my travel!",
-      "rating": 5,
-      "author": "AA",
-      "date": "2026-10-26T14:53:51.000Z",
-      "url": "https://www.trustpilot.com/reviews/6adf4d5f8183e4237b69b57d"
-    },
-    {
-      "id": "6adf4cedfae0256e2f58fb07",
-      "title": "Samiksha Very patient and helpful",
-      "body": "Samiksha Very patient and helpful. Solved the problem and now my eSIM working. Thank you Samiksha",
-      "rating": 5,
-      "author": "Mary-Jane Scott",
-      "date": "2026-10-26T14:51:58.000Z",
-      "url": "https://www.trustpilot.com/reviews/6adf4cedfae0256e2f58fb07"
-    },
-    {
-      "id": "6adf2ca1d592cab438625237",
-      "title": "Shivam",
-      "body": "Shivam, great help!",
-      "rating": 5,
-      "author": "Kate",
-      "date": "2026-10-26T12:34:09.000Z",
-      "url": "https://www.trustpilot.com/reviews/6adf2ca1d592cab438625237"
-    },
-    {
-      "id": "6ade26f5f1bff99508055131",
-      "title": "Very helpful service from Karanpreet",
-      "body": "Very helpful service from Karanpreet",
-      "rating": 5,
-      "author": "Clare",
-      "date": "2026-10-25T17:57:41.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ade26f5f1bff99508055131"
-    },
-    {
-      "id": "6ade0cf0013408f0524538bb",
-      "title": "VAISHNAVI",
-      "body": "VAISHNAVI, the agent, I chatted with online, was extremely helpful and answered  comprehensively all my queries (which were many and complex) as well as giving advice on when to purchase multiple plans for a 90 day holiday in 5 different countries in both southern and northern hemispheres.\nI would commend Vaishnavi for their skills, pleasant manner, and knowledge.",
-      "rating": 5,
-      "author": "W. A. T.",
-      "date": "2026-10-25T16:06:40.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ade0cf0013408f0524538bb"
-    },
-    {
-      "id": "6addfae7f93c582870feba03",
-      "title": "I requested an account deletion of a…",
-      "body": "I requested an account deletion of a travel esim which I used abroad which had expired. Ali was very helpful and very quick.",
-      "rating": 5,
-      "author": "Tmc",
-      "date": "2026-10-25T14:49:43.000Z",
-      "url": "https://www.trustpilot.com/reviews/6addfae7f93c582870feba03"
-    },
-    {
-      "id": "6addf5b73f62d5886f44f750",
-      "title": "Hrudaya was of big help very patient…",
-      "body": "Hrudaya was of big help very patient and helpful; fast and useful responses . \nThank you very much for your time. ",
-      "rating": 5,
-      "author": "Ayet",
-      "date": "2026-10-25T14:27:35.000Z",
-      "url": "https://www.trustpilot.com/reviews/6addf5b73f62d5886f44f750"
-    },
-    {
-      "id": "6adde958970595534277bc55",
-      "title": "Good problem--solving",
-      "body": "Ali tried very hard to understand the problem and gave me an email link so I can send a screenshot so he could further investigate the problem.",
-      "rating": 5,
-      "author": "Sarah Saki",
-      "date": "2026-10-25T13:34:48.000Z",
-      "url": "https://www.trustpilot.com/reviews/6adde958970595534277bc55"
-    },
-    {
-      "id": "6adde7a6a55edb803ea45d4d",
-      "title": "Thank you sanika for all your help !",
-      "body": "Thank you sanika for all your help !! \nYou made my day easy after all the hectic calls before ",
-      "rating": 5,
-      "author": "Sweety Manne",
-      "date": "2026-10-25T13:27:34.000Z",
-      "url": "https://www.trustpilot.com/reviews/6adde7a6a55edb803ea45d4d"
-    },
-    {
       "id": "6ade26f5f1bff99508055131",
       "title": "Very helpful service from Karanpreet",
       "body": "Very helpful service from Karanpreet",
@@ -557,5 +557,5 @@
       "url": "https://www.trustpilot.com/reviews/6adb836f41db1d733ca7e594"
     }
   ],
-  "fetchedAt": "2026-10-31T11:52:04.713Z"
+  "fetchedAt": "2026-10-31T16:58:35.936Z"
 }
