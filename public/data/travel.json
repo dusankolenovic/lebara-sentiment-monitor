@@ -17,6 +17,78 @@
   },
   "reviews": [
     {
+      "id": "6aeb9512e3a93683e9c09c3d",
+      "title": "Very quick and useful responses and…",
+      "body": "Very quick and useful responses and help from Smriti today. Great customer service ",
+      "rating": 5,
+      "author": "Bianca Kerekes",
+      "date": "2026-11-04T22:26:58.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aeb9512e3a93683e9c09c3d"
+    },
+    {
+      "id": "6aeb94b454ea934f224f8e0b",
+      "title": "Helpful support with unclear instructions.",
+      "body": "The agent, Anurag, who helped me was very patient. I find the instructions for most IT to have been written without grasping that the readers are often far less proficient than the authors. The Lebara eSIM instructions are such.  Despite my limited competence, Anurag was able to coach me so as to sort out my problem.",
+      "rating": 5,
+      "author": "Michael L",
+      "date": "2026-11-04T22:25:24.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aeb94b454ea934f224f8e0b"
+    },
+    {
+      "id": "6aeb7de4cf071ac99ed95b0a",
+      "title": "Yogeshwari Was amazing",
+      "body": "Yogeshwari Was amazing. Very knowledgeable and patient ",
+      "rating": 5,
+      "author": "customer",
+      "date": "2026-11-04T20:48:04.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aeb7de4cf071ac99ed95b0a"
+    },
+    {
+      "id": "6aeb5b3ad176598f8b1b6b4d",
+      "title": "Efficient and quick.",
+      "body": "Efficient and quick.",
+      "rating": 5,
+      "author": "Valerie Hollingsworth",
+      "date": "2026-11-04T18:20:10.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aeb5b3ad176598f8b1b6b4d"
+    },
+    {
+      "id": "6aeb54b3e209a702410afe2e",
+      "title": "Overseas eSIM ",
+      "body": "Aman quickly and efficiently answered my query about an international eSIM. Good customer service",
+      "rating": 5,
+      "author": "Jill Stammers",
+      "date": "2026-11-04T17:52:19.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aeb54b3e209a702410afe2e"
+    },
+    {
+      "id": "6aeb469fb5d85010c583a212",
+      "title": "I was given clear and consise…",
+      "body": "I was given clear and consise information by Aman.",
+      "rating": 5,
+      "author": "Parmanand  Jugdish Coormiah",
+      "date": "2026-11-04T16:52:15.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aeb469fb5d85010c583a212"
+    },
+    {
+      "id": "6aeb3e7d9e09eec17c6c5b92",
+      "title": "Yogeshwari Was very helpful and…",
+      "body": "Yogeshwari Was very helpful and supportive",
+      "rating": 4,
+      "author": "Noor A",
+      "date": "2026-11-04T16:17:33.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aeb3e7d9e09eec17c6c5b92"
+    },
+    {
+      "id": "6aeb1e077a63c7c88f7b8012",
+      "title": "Great for travel",
+      "body": "Great for travel, easy to use and install, the app is clear & easy too. Contacted customer services for a query and Adarsh was fantastic helping solve it.  ",
+      "rating": 5,
+      "author": "Sophie B",
+      "date": "2026-11-04T13:59:03.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aeb1e077a63c7c88f7b8012"
+    },
+    {
       "id": "6aea6e52c08ef321405856ba",
       "title": "Samiksha was very patient and helped me…",
       "body": "Samiksha was very patient and helped me greatly. The settings on my Samsung were very uncooperative! My husband was having the same problem, but he has an iPhone and I changed the settings easily using Samikshas instructions. Thank you",
@@ -305,78 +377,6 @@
       "url": "https://www.trustpilot.com/reviews/6ae4d14838203ca6b120a639"
     },
     {
-      "id": "6ae4c702235ecb0f2c600e3d",
-      "title": "Prapti was the third agent who tried to…",
-      "body": "Prapti was the third agent who tried to fix my issue and the only one who actually fixed it. Thank you! Very responsive and patient. ",
-      "rating": 5,
-      "author": "Ruth Porter",
-      "date": "2026-10-30T18:34:10.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ae4c702235ecb0f2c600e3d"
-    },
-    {
-      "id": "6ae4b22dff6e89d7a20fde76",
-      "title": "Ali was very helpful and explained…",
-      "body": "Ali was very helpful and explained everything very clearly and detailed compared to other person and sorted my problem out so quickly. Thank you so much!",
-      "rating": 5,
-      "author": "Ece Çaktı",
-      "date": "2026-10-30T17:05:17.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ae4b22dff6e89d7a20fde76"
-    },
-    {
-      "id": "6ae4a3a4aa9a2d4f8c215f5d",
-      "title": "Thank you very helpful Ali",
-      "body": "Thank you very helpful Ali ",
-      "rating": 5,
-      "author": "Qatip",
-      "date": "2026-10-30T16:03:16.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ae4a3a4aa9a2d4f8c215f5d"
-    },
-    {
-      "id": "6ae4a30b5af8da6468069087",
-      "title": "Chetan was very quick to respond to my…",
-      "body": "Chetan was very quick to respond to my query ref Travel esim. I didn't have to wait for ages to be connected to the operator. I am very happy with Lebara network and operator so far",
-      "rating": 5,
-      "author": "Monica Morrison",
-      "date": "2026-10-30T16:00:43.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ae4a30b5af8da6468069087"
-    },
-    {
-      "id": "6ae47e185bd6cff281ce1866",
-      "title": "Am travelling soon to numerous…",
-      "body": "Am travelling soon to numerous destinations and was unsure what I needed, Nitin helped me with all the info, thank you Nitin!",
-      "rating": 5,
-      "author": "Julie Shapter",
-      "date": "2026-10-30T13:23:04.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ae47e185bd6cff281ce1866"
-    },
-    {
-      "id": "6ae39f067861f8e5c9d38304",
-      "title": "Great company, always deliver ",
-      "body": "Great company always deliver,, this is why I always use them, when traveling abroad,, good customer service to,,, if you need help with a problem... They will sort it...... Top Banana",
-      "rating": 5,
-      "author": "Daz k",
-      "date": "2026-10-29T21:31:18.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ae39f067861f8e5c9d38304"
-    },
-    {
-      "id": "6ae38ccad0d6f45d3fecd24c",
-      "title": "Chetan was great support with assisting…",
-      "body": "Chetan was great support with assisting with my questions and highly recommend!",
-      "rating": 5,
-      "author": "Farzana Akhtar",
-      "date": "2026-10-29T20:13:30.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ae38ccad0d6f45d3fecd24c"
-    },
-    {
-      "id": "6ae38198a3350c1daa6e59fa",
-      "title": "Soni was really helpful",
-      "body": "Soni was really helpful, and got me to the right plan for roaming in Australia ",
-      "rating": 5,
-      "author": "jude",
-      "date": "2026-10-29T19:25:44.000Z",
-      "url": "https://www.trustpilot.com/reviews/6ae38198a3350c1daa6e59fa"
-    },
-    {
       "id": "6ae35e6b4c0578fa3f8e8ff2",
       "title": "Professional, caring employee ",
       "body": "Having had 2 very bad experiences with Lebara customer service in the same afternoon it was a pleasure to speak with  Hrudaya on our third attempt. He was technically knowledgeable and most helpful. The overriding aspect was his patience and stayed with us until our problems were resolved. Unlike his colleagues who both cut us off during chats. Hrudaya is a credit to your customer service.",
@@ -557,5 +557,5 @@
       "url": "https://www.trustpilot.com/reviews/6adfb450ca831b08380016a4"
     }
   ],
-  "fetchedAt": "2026-11-04T23:21:09.042Z"
+  "fetchedAt": "2026-11-05T05:42:10.522Z"
 }
