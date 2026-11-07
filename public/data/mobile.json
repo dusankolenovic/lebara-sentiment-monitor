@@ -1,7 +1,7 @@
 {
   "source": "mobile",
   "label": "Lebara Mobile UK",
-  "avgRating": 4.8,
+  "avgRating": 4.9,
   "totalReviews": 60,
   "sentimentBreakdown": {
     "positive": 0,
@@ -197,6 +197,33 @@
       "url": "https://www.trustpilot.com/reviews/6aedde2ff824a608dcab1483"
     },
     {
+      "id": "6aede41bad9c3a957814ce93",
+      "title": "EXCELLENT CUSTOMER SERVICE",
+      "body": "EXCELLENT CUSTOMER SERVICE. HELP AND ASSISTANCE SECOND TO NONE. PROBLEM SOLVED WITH GREAT EASE.\n",
+      "rating": 5,
+      "author": "Terry IERIDES",
+      "date": "2026-11-06T16:28:43.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aede41bad9c3a957814ce93"
+    },
+    {
+      "id": "6aede2e46f433e364339641c",
+      "title": "Good CS",
+      "body": "The customer service Mr Bilal is very helpful and friendly. ",
+      "rating": 5,
+      "author": "customer",
+      "date": "2026-11-06T16:23:32.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aede2e46f433e364339641c"
+    },
+    {
+      "id": "6aedde2ff824a608dcab1483",
+      "title": "Quick and easy",
+      "body": "The customer service was great",
+      "rating": 5,
+      "author": "baterson Bitly",
+      "date": "2026-11-06T16:03:27.000Z",
+      "url": "https://www.trustpilot.com/reviews/6aedde2ff824a608dcab1483"
+    },
+    {
       "id": "6aedd2cf5b9774bd6fd1c837",
       "title": "Great customer service",
       "body": "Great customer service, Samrudha was very helpful and five star!\nI ",
@@ -348,33 +375,6 @@
       "author": "Isabel",
       "date": "2026-11-06T12:20:27.000Z",
       "url": "https://www.trustpilot.com/reviews/6aeda9ebd088b314f5687d54"
-    },
-    {
-      "id": "6aeda856765f8a0c0036a6ab",
-      "title": "I had a really good experience speaking…",
-      "body": "I had a really good experience speaking with Virendar from Lebara customer service. He was very polite, friendly, patient, and professional throughout the call. He listened carefully to my concerns and explained everything clearly. He was genuinely helpful and made sure my issue was properly addressed. I really appreciate his support and the excellent service he provided. Thank you, Virendar, for your help. Keep up the great work!",
-      "rating": 5,
-      "author": "Amal Suresh",
-      "date": "2026-11-06T12:13:42.000Z",
-      "url": "https://www.trustpilot.com/reviews/6aeda856765f8a0c0036a6ab"
-    },
-    {
-      "id": "6aeda6491971f81636cf5309",
-      "title": "Excellent customer service from Neha K!",
-      "body": "I had a great experience with Lebara's customer service today. Neha K was friendly, patient and helpful throughout the conversation. She helped me cancel an unwanted automatic renewal and submitted a refund request for the £7.90 charge. She also clearly explained the expected refund timeframe. I really appreciate her assistance. Thank you, Neha K!",
-      "rating": 5,
-      "author": "Su",
-      "date": "2026-11-06T12:04:57.000Z",
-      "url": "https://www.trustpilot.com/reviews/6aeda6491971f81636cf5309"
-    },
-    {
-      "id": "6aeda505ed9921a49990d349",
-      "title": "Over a month of runaround, not blacklisting a stolen phone",
-      "body": "After another week of runaround, Lebara still hasn’t blacklisted my stolen device. It is now over one month since my iPhone was stolen on holiday, and Lebara is treating me as someone else’s problem. They have refused to blacklist my stolen device and to provide me 'proof of usage' (I need both to claim against my travel insurance). The helpful public reply their Business Operations Director gave my review last week was all a front – he has not replied to my emails. Forget duty of care, Lebara is not interested in supporting their customer whose phone was stolen. I will not be renewing my monthly contract with them.",
-      "rating": 1,
-      "author": "KS",
-      "date": "2026-11-06T11:59:33.000Z",
-      "url": "https://www.trustpilot.com/reviews/6aeda505ed9921a49990d349"
     },
     {
       "id": "6aeda421d0a2375013827ab1",
@@ -557,5 +557,5 @@
       "url": "https://www.trustpilot.com/reviews/6aecd271124d2b258249a965"
     }
   ],
-  "fetchedAt": "2026-11-06T22:50:11.456Z"
+  "fetchedAt": "2026-11-07T05:08:12.648Z"
 }
