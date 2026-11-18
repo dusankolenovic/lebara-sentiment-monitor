@@ -17,6 +17,33 @@
   },
   "reviews": [
     {
+      "id": "6afc9257745dd1f1f60da7d8",
+      "title": "Pranav was great",
+      "body": "Pranav was great! Very helpful",
+      "rating": 5,
+      "author": "Alex from London",
+      "date": "2026-11-17T19:43:51.000Z",
+      "url": "https://www.trustpilot.com/reviews/6afc9257745dd1f1f60da7d8"
+    },
+    {
+      "id": "6afc88fe0970dddad5061112",
+      "title": "Samiksha was the best",
+      "body": "Samiksha was the best! He patiently guided me through all the steps to fix my eSIM setup, and it finally worked. I really appreciate his work! \n\nAlthough the chat functionality itself could’ve been better. Being able to attach screenshots in the chat would have really helped to speed things up. Instead, I had to send screenshots via email, jumping between my browser and email apps.",
+      "rating": 5,
+      "author": "Kuat",
+      "date": "2026-11-17T19:03:58.000Z",
+      "url": "https://www.trustpilot.com/reviews/6afc88fe0970dddad5061112"
+    },
+    {
+      "id": "6afc6b7ec4a639cdf3c071ae",
+      "title": "Ali really helped",
+      "body": "Ali really helped, amongst the best at Lebaras usually great customer service ",
+      "rating": 5,
+      "author": "CP",
+      "date": "2026-11-17T16:58:06.000Z",
+      "url": "https://www.trustpilot.com/reviews/6afc6b7ec4a639cdf3c071ae"
+    },
+    {
       "id": "6afc34bcacb5cbc3bb664041",
       "title": "eSIM issues",
       "body": "ALI did a fantastic job in sorting my eSIM, very much appreciated. ",
@@ -168,33 +195,6 @@
       "author": "SB",
       "date": "2026-11-15T15:04:07.000Z",
       "url": "https://www.trustpilot.com/reviews/6af9adc785d91dece78a336f"
-    },
-    {
-      "id": "6af99692eff4af581874c669",
-      "title": "Excellent service",
-      "body": "Smita was very helpful and patient with me. Thank you very much, I really appreciate it.",
-      "rating": 5,
-      "author": "Balu",
-      "date": "2026-11-15T13:25:06.000Z",
-      "url": "https://www.trustpilot.com/reviews/6af99692eff4af581874c669"
-    },
-    {
-      "id": "6af97e12d494dffa7fae3efb",
-      "title": "Lebara travel is very handy",
-      "body": "Lebara travel is very handy, and my data issue when I landed was instantly resolved by Shubham , it was very helpful and thanks a lot to Shubham and lebara ",
-      "rating": 5,
-      "author": "customer",
-      "date": "2026-11-15T11:40:34.000Z",
-      "url": "https://www.trustpilot.com/reviews/6af97e12d494dffa7fae3efb"
-    },
-    {
-      "id": "6af924594966a4fa3d5742ed",
-      "title": "The support is REALLY available 24/7",
-      "body": "It was great to be able to speak to someone at 5 am from Baku Airport, trying to set up my Lebara eSIM. I had to wait less than a minute to be connected to an agent on the chat. Shubham was great in understanding exactly what I needed help with, and within five minutes I had activated my SIM. Really impressed with the Customer Service. Thank you.",
-      "rating": 5,
-      "author": "Mahf Ambia",
-      "date": "2026-11-15T05:17:45.000Z",
-      "url": "https://www.trustpilot.com/reviews/6af924594966a4fa3d5742ed"
     },
     {
       "id": "6af7d43de18a2ee2b25809ac",
@@ -557,5 +557,5 @@
       "url": "https://www.trustpilot.com/reviews/6af04141f250b6ea5ed6173b"
     }
   ],
-  "fetchedAt": "2026-11-17T15:39:37.462Z"
+  "fetchedAt": "2026-11-18T00:42:07.550Z"
 }
