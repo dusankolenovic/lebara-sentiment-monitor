@@ -1,7 +1,7 @@
 {
   "source": "travel",
   "label": "Lebara Travel eSIM",
-  "avgRating": 4.8,
+  "avgRating": 4.7,
   "totalReviews": 60,
   "sentimentBreakdown": {
     "positive": 0,
@@ -16,6 +16,33 @@
     "5": 0
   },
   "reviews": [
+    {
+      "id": "6b02d66649f00a50a95cc6d4",
+      "title": "Deepali was very helpful and patient is…",
+      "body": "Deepali was very helpful and patient is helping me with my eSIM. I am grateful to them.",
+      "rating": 5,
+      "author": "Consumer",
+      "date": "2026-11-22T13:47:50.000Z",
+      "url": "https://www.trustpilot.com/reviews/6b02d66649f00a50a95cc6d4"
+    },
+    {
+      "id": "6b02c907af9e921a629c143b",
+      "title": "Absolutely horrendous experience with…",
+      "body": "Absolutely horrendous experience with Ankush but thankfully spoke with another customer service agent called Ali who managed to help & save the day.  ",
+      "rating": 5,
+      "author": "Consumer",
+      "date": "2026-11-22T12:50:47.000Z",
+      "url": "https://www.trustpilot.com/reviews/6b02c907af9e921a629c143b"
+    },
+    {
+      "id": "6b027d515e810f9fc238c55d",
+      "title": "Delhi no signal!",
+      "body": "Do not, I repeat do not purchase an esim for use in Delhi. From the moment you arrive the connection is awful. I stupidly thought connection would improve when we reached central Delhi but it didn't. Gave up after half a day and purchased a local sim card for a fraction of the price. £25 down the drain, thanks to Lebara.\n",
+      "rating": 1,
+      "author": "geoff randall",
+      "date": "2026-11-22T07:27:45.000Z",
+      "url": "https://www.trustpilot.com/reviews/6b027d515e810f9fc238c55d"
+    },
     {
       "id": "6b01c7e5169d1b75ab39f150",
       "title": "Fab customer service ",
@@ -168,33 +195,6 @@
       "author": "CP",
       "date": "2026-11-17T16:58:06.000Z",
       "url": "https://www.trustpilot.com/reviews/6afc6b7ec4a639cdf3c071ae"
-    },
-    {
-      "id": "6afc34bcacb5cbc3bb664041",
-      "title": "eSIM issues",
-      "body": "ALI did a fantastic job in sorting my eSIM, very much appreciated. ",
-      "rating": 5,
-      "author": "Andrew Ford",
-      "date": "2026-11-17T13:04:28.000Z",
-      "url": "https://www.trustpilot.com/reviews/6afc34bcacb5cbc3bb664041"
-    },
-    {
-      "id": "6afc2653f4f1dc3920717118",
-      "title": "Low cost data plans.",
-      "body": "Low cost data plans.\nGood customer service.",
-      "rating": 4,
-      "author": "Kyme Tuckley",
-      "date": "2026-11-17T12:02:59.000Z",
-      "url": "https://www.trustpilot.com/reviews/6afc2653f4f1dc3920717118"
-    },
-    {
-      "id": "6afc0887d4651328c4abfee2",
-      "title": "Quick & efficient",
-      "body": "Quick, efficient support from Sanika without the long delays in response you often have with web chat services. ",
-      "rating": 5,
-      "author": "Ed Westhead",
-      "date": "2026-11-17T09:55:51.000Z",
-      "url": "https://www.trustpilot.com/reviews/6afc0887d4651328c4abfee2"
     },
     {
       "id": "6afc34bcacb5cbc3bb664041",
@@ -557,5 +557,5 @@
       "url": "https://www.trustpilot.com/reviews/6af478dac00264b9840db09b"
     }
   ],
-  "fetchedAt": "2026-11-22T23:22:30.115Z"
+  "fetchedAt": "2026-11-23T06:25:15.932Z"
 }
