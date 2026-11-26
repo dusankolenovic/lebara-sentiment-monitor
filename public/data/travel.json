@@ -1,7 +1,7 @@
 {
   "source": "travel",
   "label": "Lebara Travel eSIM",
-  "avgRating": 4.9,
+  "avgRating": 4.8,
   "totalReviews": 60,
   "sentimentBreakdown": {
     "positive": 0,
@@ -195,6 +195,42 @@
       "author": "Consumer",
       "date": "2026-11-22T12:50:47.000Z",
       "url": "https://www.trustpilot.com/reviews/6b02c907af9e921a629c143b"
+    },
+    {
+      "id": "6b02c907af9e921a629c143b",
+      "title": "Absolutely horrendous experience with…",
+      "body": "Absolutely horrendous experience with Ankush but thankfully spoke with another customer service agent called Ali who managed to help & save the day.  ",
+      "rating": 5,
+      "author": "Consumer",
+      "date": "2026-11-22T12:50:47.000Z",
+      "url": "https://www.trustpilot.com/reviews/6b02c907af9e921a629c143b"
+    },
+    {
+      "id": "6b027d515e810f9fc238c55d",
+      "title": "Delhi no signal!",
+      "body": "Do not, I repeat do not purchase an esim for use in Delhi. From the moment you arrive the connection is awful. I stupidly thought connection would improve when we reached central Delhi but it didn't. Gave up after half a day and purchased a local sim card for a fraction of the price. £25 down the drain, thanks to Lebara.\n",
+      "rating": 1,
+      "author": "geoff randall",
+      "date": "2026-11-22T07:27:45.000Z",
+      "url": "https://www.trustpilot.com/reviews/6b027d515e810f9fc238c55d"
+    },
+    {
+      "id": "6b01c7e5169d1b75ab39f150",
+      "title": "Fab customer service ",
+      "body": "Aman was really helpful and got me up and running. My eSIM was playing up and I was concerned it was not going to get it to work but Aman clearly  knew what he was doing and directed to a resolution. Thank you. ",
+      "rating": 5,
+      "author": "A alhashcyahoo.co.uk",
+      "date": "2026-11-21T18:33:41.000Z",
+      "url": "https://www.trustpilot.com/reviews/6b01c7e5169d1b75ab39f150"
+    },
+    {
+      "id": "6b0171815babe9b42df42df2",
+      "title": "I accidentally bought an esim that…",
+      "body": "I accidentally bought an esim that wasn't compatible with my phone. I used the chat function and Nitin was extremely helpful. ",
+      "rating": 5,
+      "author": "Jill Stuart",
+      "date": "2026-11-21T12:25:05.000Z",
+      "url": "https://www.trustpilot.com/reviews/6b0171815babe9b42df42df2"
     },
     {
       "id": "6b013c3e5391c7e946133d6b",
@@ -519,43 +555,7 @@
       "author": "Michelle Brauer",
       "date": "2026-11-14T22:53:52.000Z",
       "url": "https://www.trustpilot.com/reviews/6af8ca604aa4e89045215062"
-    },
-    {
-      "id": "6af893467fe820e732d0a8b7",
-      "title": "Answered all my questions and in the…",
-      "body": "Answered all my questions and in the end i got what i wanted.\n",
-      "rating": 5,
-      "author": "Marius S",
-      "date": "2026-11-14T18:58:46.000Z",
-      "url": "https://www.trustpilot.com/reviews/6af893467fe820e732d0a8b7"
-    },
-    {
-      "id": "6af856abf78cc98053edda91",
-      "title": "Great help!",
-      "body": "Smita was very nice and helped me make my esim work.",
-      "rating": 5,
-      "author": "Mariuca",
-      "date": "2026-11-14T14:40:11.000Z",
-      "url": "https://www.trustpilot.com/reviews/6af856abf78cc98053edda91"
-    },
-    {
-      "id": "6af815282ca4c9a973c4d3cb",
-      "title": "Excellent service ",
-      "body": "I bought an extra plan by mistake and a very helpful and understanding agent Shivam sorted it all out for me with ease, thank you Shivam .👍",
-      "rating": 5,
-      "author": "chris",
-      "date": "2026-11-14T10:00:40.000Z",
-      "url": "https://www.trustpilot.com/reviews/6af815282ca4c9a973c4d3cb"
-    },
-    {
-      "id": "6af7d43de18a2ee2b25809ac",
-      "title": "Hrudaya - excellent job. ",
-      "body": "Hrudaya, at tech support,  provided excellent help and sorted the issue quickly. Great job, very thankful.",
-      "rating": 5,
-      "author": "Andrew D",
-      "date": "2026-11-14T05:23:41.000Z",
-      "url": "https://www.trustpilot.com/reviews/6af7d43de18a2ee2b25809ac"
     }
   ],
-  "fetchedAt": "2026-11-26T07:23:18.035Z"
+  "fetchedAt": "2026-11-26T21:05:12.313Z"
 }
