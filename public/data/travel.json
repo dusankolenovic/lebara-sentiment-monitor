@@ -17,6 +17,15 @@
   },
   "reviews": [
     {
+      "id": "6b083bdfe3526d012fa6614f",
+      "title": "Thank you very much Chetan for your…",
+      "body": "Thank you very much Chetan for your help!!! You was very kind and helpful!!! ❤️",
+      "rating": 5,
+      "author": "Indra Aleksandra",
+      "date": "2026-11-26T16:02:07.000Z",
+      "url": "https://www.trustpilot.com/reviews/6b083bdfe3526d012fa6614f"
+    },
+    {
       "id": "6b06e74680a9c0bc1950eecc",
       "title": "clear information",
       "body": "Lebara has been very helpful. They answer queries clearly and provide useful information. ",
@@ -186,15 +195,6 @@
       "author": "Consumer",
       "date": "2026-11-22T13:47:50.000Z",
       "url": "https://www.trustpilot.com/reviews/6b02d66649f00a50a95cc6d4"
-    },
-    {
-      "id": "6b02c907af9e921a629c143b",
-      "title": "Absolutely horrendous experience with…",
-      "body": "Absolutely horrendous experience with Ankush but thankfully spoke with another customer service agent called Ali who managed to help & save the day.  ",
-      "rating": 5,
-      "author": "Consumer",
-      "date": "2026-11-22T12:50:47.000Z",
-      "url": "https://www.trustpilot.com/reviews/6b02c907af9e921a629c143b"
     },
     {
       "id": "6b02c907af9e921a629c143b",
@@ -557,5 +557,5 @@
       "url": "https://www.trustpilot.com/reviews/6af8ca604aa4e89045215062"
     }
   ],
-  "fetchedAt": "2026-11-26T21:05:12.313Z"
+  "fetchedAt": "2026-11-27T07:19:41.429Z"
 }
